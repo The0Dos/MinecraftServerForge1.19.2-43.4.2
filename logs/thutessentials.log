@@ -1,10 +1,106 @@
 Registering Defuzzer!
-Loaded thutessentials config file thutessentials\thutessentials-common.toml
-Reading thutessentials\thutessentials-common.toml
+Loaded thutessentials config file thutessentials/thutessentials-common.toml
+Reading thutessentials/thutessentials-common.toml
+thutessentials/thutessentials-common.toml config belongs to us!
+Reading thutessentials/thutessentials-common.toml
+thutessentials/thutessentials-common.toml config belongs to us!
+Reading thutessentials/thutessentials-common.toml
+Starting Loading Land
+Finished Loading Land and Teams
 Server Started
 Starting Loading Land
 Finished Loading Land and Teams
-23:15:04.5237368 minecraft:overworld, BlockPos{x=-2, y=4, z=3}: log-in afb7b56a-c649-3168-8e66-befdae15357f The_Dos
+23:15:23.918720611 minecraft:overworld, BlockPos{x=0, y=5, z=-2}: log-in afb7b56a-c649-3168-8e66-befdae15357f The_Dos
 Login detected, adding player to logins for defuzz.
-23:15:15.0037091 minecraft:overworld, BlockPos{x=-2, y=4, z=3}: log-out afb7b56a-c649-3168-8e66-befdae15357f The_Dos
-Server Stopped
+23:15:24.01363162 minecraft:overworld, BlockPos{x=0, y=5, z=-2}: Teleport from minecraft:overworld BlockPos{x=0, y=95, z=-25} to minecraft:overworld BlockPos{x=0, y=96, z=-32} for afb7b56a-c649-3168-8e66-befdae15357f The_Dos
+23:15:33.769285846 minecraft:overworld, BlockPos{x=-1, y=5, z=-2}: log-in c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+Login detected, adding player to logins for defuzz.
+23:15:33.789412466 minecraft:overworld, BlockPos{x=-1, y=5, z=-2}: Teleport from minecraft:overworld BlockPos{x=-2, y=95, z=-23} to minecraft:overworld BlockPos{x=0, y=96, z=-32} for c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:15:40.836551221 minecraft:overworld, BlockPos{x=0, y=5, z=-3}: log-in f7d9c9c5-5a04-347b-90f8-39d881279ece VadimThomas
+Login detected, adding player to logins for defuzz.
+23:15:40.845042525 minecraft:overworld, BlockPos{x=0, y=5, z=-3}: log-out f7d9c9c5-5a04-347b-90f8-39d881279ece VadimThomas
+23:16:23.650105632 minecraft:overworld, BlockPos{x=6, y=5, z=-3}: break Block{minecraft:oak_log}[axis=y] at BlockPos{x=100, y=88, z=-38} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:16:27.292531825 minecraft:overworld, BlockPos{x=6, y=5, z=-3}: break Block{minecraft:oak_log}[axis=y] at BlockPos{x=100, y=87, z=-38} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:16:30.991236098 minecraft:overworld, BlockPos{x=6, y=5, z=-3}: break Block{minecraft:oak_log}[axis=y] at BlockPos{x=100, y=89, z=-38} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:16:34.348186719 minecraft:overworld, BlockPos{x=6, y=5, z=-3}: break Block{minecraft:oak_log}[axis=y] at BlockPos{x=100, y=90, z=-38} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:16:49.863740806 minecraft:overworld, BlockPos{x=-1, y=5, z=-2}: log-in cd84a844-f769-3c1b-a039-a5233b5b271b DIXAI
+Login detected, adding player to logins for defuzz.
+23:16:49.909164044 minecraft:overworld, BlockPos{x=-1, y=5, z=-2}: Teleport from minecraft:overworld BlockPos{x=-6, y=95, z=-22} to minecraft:overworld BlockPos{x=0, y=96, z=-32} for cd84a844-f769-3c1b-a039-a5233b5b271b DIXAI
+23:16:53.687270324 minecraft:overworld, BlockPos{x=6, y=5, z=-3}: break Block{minecraft:oak_leaves}[distance=3,persistent=false,waterlogged=false] at BlockPos{x=100, y=89, z=-39} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:16:57.041111023 minecraft:overworld, BlockPos{x=6, y=5, z=-3}: break Block{minecraft:oak_log}[axis=y] at BlockPos{x=100, y=91, z=-38} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:27.284662864 minecraft:overworld, BlockPos{x=0, y=5, z=-1}: Teleport from minecraft:overworld BlockPos{x=7, y=94, z=-10} to minecraft:overworld BlockPos{x=132, y=101, z=-26} for cd84a844-f769-3c1b-a039-a5233b5b271b DIXAI
+23:17:30.747794531 minecraft:overworld, BlockPos{x=10, y=6, z=0}: open class net.minecraft.world.inventory.CraftingMenu c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:32.377926231 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 4 oak_planks Oak Planks, net.minecraft.world.inventory.ResultContainer@4a32bb94 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:32.378293055 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 5 oak_log Oak Log, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:32.379325765 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 5 oak_log Oak Log, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:33.059292499 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 4 oak_planks Oak Planks, net.minecraft.world.inventory.ResultContainer@4a32bb94 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:33.059462456 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 5 oak_log Oak Log, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:33.064627497 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 20 oak_planks Oak Planks, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:33.710408277 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 20 oak_planks Oak Planks, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:34.401373735 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 4 stick Stick, net.minecraft.world.inventory.ResultContainer@4a32bb94 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:34.401564011 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:34.401648109 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:34.694344116 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 2 oak_planks Oak Planks <-> 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:34.694487063 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 2 oak_planks Oak Planks <-> 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:34.972141434 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 3 oak_planks Oak Planks <-> 2 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:34.972383648 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 3 oak_planks Oak Planks <-> 2 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:35.658244077 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 4 stick Stick, net.minecraft.world.inventory.ResultContainer@4a32bb94 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:35.658462553 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 3 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:35.658554581 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 3 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:35.663405531 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 12 stick Stick, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:36.117368108 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 14 oak_planks Oak Planks, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.229938206 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 wooden_axe Wooden Axe, net.minecraft.world.inventory.ResultContainer@4a32bb94 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.230138613 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.230218241 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.23029783 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.230395848 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 stick Stick, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.230489456 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 stick Stick, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.230958457 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 11 oak_planks Oak Planks <-> 14 oak_planks Oak Planks, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.231217573 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 10 stick Stick <-> 12 stick Stick, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.838047143 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 wooden_axe Wooden Axe, net.minecraft.world.inventory.ResultContainer@4a32bb94 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.838489384 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.838611402 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.83869513 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.838763759 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 stick Stick, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.838852257 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 stick Stick, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:38.83980284 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 wooden_axe Wooden Axe, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:39.891897327 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 1 wooden_axe Wooden Axe <-> 1 mutton Raw Mutton, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:39.892465117 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 1 mutton Raw Mutton <-> 1 wooden_axe Wooden Axe, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:41.880961141 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 wooden_shovel Wooden Shovel, net.minecraft.world.inventory.ResultContainer@4a32bb94 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:41.881205817 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:41.881345293 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 stick Stick, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:41.881456831 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 stick Stick, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:41.882012752 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 10 oak_planks Oak Planks <-> 11 oak_planks Oak Planks, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:41.882330436 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 8 stick Stick <-> 10 stick Stick, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:42.232176292 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 1 wooden_sword Wooden Sword <-> 1 wooden_shovel Wooden Shovel, net.minecraft.world.inventory.ResultContainer@4a32bb94 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:42.232762362 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks <-> 1 stick Stick, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:42.233166906 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 9 oak_planks Oak Planks <-> 10 oak_planks Oak Planks, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:42.235193151 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 9 stick Stick <-> 8 stick Stick, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:42.884204505 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 1 wooden_pickaxe Wooden Pickaxe <-> 1 wooden_sword Wooden Sword, net.minecraft.world.inventory.ResultContainer@4a32bb94 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:42.884456661 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:42.884532929 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:42.884621878 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 1 stick Stick <-> 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:42.885273567 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 8 oak_planks Oak Planks <-> 9 oak_planks Oak Planks, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:42.885511773 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 8 stick Stick <-> 9 stick Stick, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:43.465130669 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 wooden_pickaxe Wooden Pickaxe, net.minecraft.world.inventory.ResultContainer@4a32bb94 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:43.465316416 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:43.465386804 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:43.465445634 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:43.465499423 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 stick Stick, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:43.465551402 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 stick Stick, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:44.464414541 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 1 wooden_pickaxe Wooden Pickaxe <-> 1 white_wool White Wool, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:44.753752467 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 white_wool White Wool, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:45.636820357 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 wooden_sword Wooden Sword, net.minecraft.world.inventory.ResultContainer@4a32bb94 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:45.637167642 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:45.637321299 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:45.637479827 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 stick Stick, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:45.638770955 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 6 oak_planks Oak Planks <-> 8 oak_planks Oak Planks, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:45.639270357 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 7 stick Stick <-> 8 stick Stick, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:46.228173539 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 wooden_sword Wooden Sword, net.minecraft.world.inventory.ResultContainer@4a32bb94 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:46.228494124 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:46.228577882 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 oak_planks Oak Planks, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:46.228637551 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 stick Stick, net.minecraft.world.inventory.CraftingContainer@2e90c4c5 c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:48.003794368 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_place class net.minecraft.world.inventory.CraftingMenu: 1 wooden_sword Wooden Sword, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:48.685320423 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_take class net.minecraft.world.inventory.CraftingMenu: 1 wooden_sword Wooden Sword, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:49.541529574 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 1 wooden_sword Wooden Sword <-> 1 wooden_axe Wooden Axe, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:17:49.987837499 minecraft:overworld, BlockPos{x=10, y=6, z=0}: slot_swap class net.minecraft.world.inventory.CraftingMenu: 1 wooden_axe Wooden Axe <-> 1 wooden_pickaxe Wooden Pickaxe, Inventory c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0

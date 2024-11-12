@@ -1,0 +1,802 @@
+2024-11-12 22:37:47,563 main WARN Advanced terminal features are not available in this environment
+[22:37:47] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[22:37:47] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 5.15.0-113-generic
+[22:37:48] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[22:37:48] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[22:37:48] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[22:37:48] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[22:37:48] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[22:37:48] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[22:37:50] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22:37:50] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[Tough As Nails Transformer]: Transforming m_36399_ (F)V in net/minecraft/world/entity/player/Player
+[Tough As Nails Transformer]: Successfully patched causeFoodExhaustion
+[Tough As Nails Transformer]: Transforming m_36399_ (F)V in net/minecraft/world/entity/player/Player
+[Tough As Nails Transformer]: Successfully patched causeFoodExhaustion
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[Serene Seasons Transformer]: Transforming m_8107_ ()V in net/minecraft/world/entity/animal/SnowGolem
+[Serene Seasons Transformer]: Patched 1 calls
+[22:37:53] [main/INFO] [minecraft/DataFixers]: Building unoptimized datafixer
+[Serene Seasons Transformer]: Transforming m_47480_ (Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;Z)Z in net/minecraft/world/level/biome/Biome
+[Serene Seasons Transformer]: Patched 1 calls
+[Serene Seasons Transformer]: Transforming m_47519_ (Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z in net/minecraft/world/level/biome/Biome
+[Serene Seasons Transformer]: Successfully patched shouldSnow
+[22:37:55] [modloading-worker-0/INFO] [thutessentials/]: []
+[22:37:55] [modloading-worker-0/INFO] [thutessentials/]: []
+[22:37:55] [modloading-worker-0/INFO] [thutessentials/]: []
+[22:37:55] [modloading-worker-0/INFO] [thutessentials/]: {}
+[22:37:55] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[22:37:55] [modloading-worker-0/INFO] [thutessentials/]: Registering Defuzzer!
+[22:37:55] [modloading-worker-0/INFO] [ne.mi.co.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[22:37:55] [modloading-worker-0/INFO] [ne.mi.co.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Warped Netherlands
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Stalactite Caves
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Space Wars
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Shire
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Desert Oasis
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Pagoda
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Minecolonies Original
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Nordic Spruce
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Spruce
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Oak
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Dark Oak
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Birch
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Lost Mesa City
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Jungle Treehouse
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Incan
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Fortress
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Dark Oak Treehouse
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Colonial
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Cavern
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Caledonia
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Birch
+[22:37:55] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Savanna
+[22:37:55] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
+[22:37:55] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
+[22:37:55] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
+[22:37:57] [main/INFO] [thutessentials/]: Loaded thutessentials config file thutessentials/thutessentials-common.toml
+[22:37:57] [main/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[22:37:57] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[22:37:57] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22:37:58] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22:37:58] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[22:37:58] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[22:37:58] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[22:37:58] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[22:37:58] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[22:37:58] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[22:37:58] [main/INFO] [journeymap/]: Initializing Packet Registries
+[22:37:58] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
+[22:37:58] [main/INFO] [toughasnails/]: Serene Seasons detected. Enabling season modifier.
+[22:37:58] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.5
+[22:37:58] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[22:37:59] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [twilightforest] Found status: BETA Current: 4.2.1518 Target: null
+[22:37:59] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[22:37:59] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[22:38:00] [main/INFO] [mojang/YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:38:00] [main/ERROR] [minecraft/Main]: Failed to start the minecraft server
+net.minecraft.util.DirectoryLock$LockException: /root/MinecraftServerForge1.19.2-43.4.2/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at net.minecraft.util.DirectoryLock$LockException.m_13648_(DirectoryLock.java:98) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?] {re:classloading}
+	at net.minecraft.util.DirectoryLock.m_13640_(DirectoryLock.java:44) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?] {re:classloading}
+	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:344) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?] {re:classloading}
+	at net.minecraft.world.level.storage.LevelStorageSource.m_78260_(LevelStorageSource.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?] {re:classloading,xf:fml:twilightforest:worldload}
+	at net.minecraft.server.Main.main(Main.java:130) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+2024-11-12 22:38:17,090 main WARN Advanced terminal features are not available in this environment
+[22:38:17] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[22:38:17] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 5.15.0-113-generic
+[22:38:17] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[22:38:17] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[22:38:17] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[22:38:17] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[22:38:17] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[22:38:17] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[22:38:19] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22:38:19] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[Tough As Nails Transformer]: Transforming m_36399_ (F)V in net/minecraft/world/entity/player/Player
+[Tough As Nails Transformer]: Successfully patched causeFoodExhaustion
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[Tough As Nails Transformer]: Transforming m_36399_ (F)V in net/minecraft/world/entity/player/Player
+[Tough As Nails Transformer]: Successfully patched causeFoodExhaustion
+[Serene Seasons Transformer]: Transforming m_8107_ ()V in net/minecraft/world/entity/animal/SnowGolem
+[Serene Seasons Transformer]: Patched 1 calls
+[22:38:22] [main/INFO] [minecraft/DataFixers]: Building unoptimized datafixer
+[Serene Seasons Transformer]: Transforming m_47480_ (Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;Z)Z in net/minecraft/world/level/biome/Biome
+[Serene Seasons Transformer]: Patched 1 calls
+[Serene Seasons Transformer]: Transforming m_47519_ (Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z in net/minecraft/world/level/biome/Biome
+[Serene Seasons Transformer]: Successfully patched shouldSnow
+[22:38:24] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[22:38:24] [modloading-worker-0/INFO] [thutessentials/]: []
+[22:38:24] [modloading-worker-0/INFO] [thutessentials/]: []
+[22:38:24] [modloading-worker-0/INFO] [thutessentials/]: []
+[22:38:24] [modloading-worker-0/INFO] [thutessentials/]: {}
+[22:38:24] [modloading-worker-0/INFO] [thutessentials/]: Registering Defuzzer!
+[22:38:24] [modloading-worker-0/INFO] [ne.mi.co.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[22:38:24] [modloading-worker-0/INFO] [ne.mi.co.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Warped Netherlands
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Stalactite Caves
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Space Wars
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Shire
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Desert Oasis
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Pagoda
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Minecolonies Original
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Nordic Spruce
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Spruce
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Oak
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Dark Oak
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Birch
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Lost Mesa City
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Jungle Treehouse
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Incan
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Fortress
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Dark Oak Treehouse
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Colonial
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Cavern
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Caledonia
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Birch
+[22:38:24] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Savanna
+[22:38:24] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
+[22:38:24] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
+[22:38:24] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
+[22:38:27] [main/INFO] [thutessentials/]: Loaded thutessentials config file thutessentials/thutessentials-common.toml
+[22:38:27] [main/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[22:38:27] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[22:38:27] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22:38:27] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22:38:27] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[22:38:27] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[22:38:27] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[22:38:27] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[22:38:27] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[22:38:27] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[22:38:27] [main/INFO] [journeymap/]: Initializing Packet Registries
+[22:38:28] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
+[22:38:28] [main/INFO] [toughasnails/]: Serene Seasons detected. Enabling season modifier.
+[22:38:28] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.5
+[22:38:28] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[22:38:29] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [twilightforest] Found status: BETA Current: 4.2.1518 Target: null
+[22:38:29] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[22:38:29] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[22:38:30] [main/INFO] [mojang/YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:38:31] [main/ERROR] [minecraft/Main]: Failed to start the minecraft server
+net.minecraft.util.DirectoryLock$LockException: /root/MinecraftServerForge1.19.2-43.4.2/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at net.minecraft.util.DirectoryLock$LockException.m_13648_(DirectoryLock.java:98) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?] {re:classloading}
+	at net.minecraft.util.DirectoryLock.m_13640_(DirectoryLock.java:44) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?] {re:classloading}
+	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:344) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?] {re:classloading}
+	at net.minecraft.world.level.storage.LevelStorageSource.m_78260_(LevelStorageSource.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?] {re:classloading,xf:fml:twilightforest:worldload}
+	at net.minecraft.server.Main.main(Main.java:130) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+2024-11-12 23:01:43,238 main WARN Advanced terminal features are not available in this environment
+[23:01:43] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[23:01:43] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 5.15.0-113-generic
+[23:01:43] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[23:01:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[23:01:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23:01:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23:01:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23:01:43] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[23:01:43] [main/ERROR] [ne.mi.fm.lo.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'domum_ornamentum', Requested by: 'minecolonies', Expected range: '[1.19-1.0.141-BETA,)', Actual version: '1.19-1.0.107-RELEASE'
+[23:01:44] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23:01:44] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[23:01:44] [main/WARN] [mixin/]: Reference map 'tlc.refmap.json' for tlc.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:01:47] [main/INFO] [minecraft/DataFixers]: Building unoptimized datafixer
+[23:01:49] [main/FATAL] [ne.mi.fm.ModLoader/CORE]: Error during pre-loading phase
+net.minecraftforge.fml.ModLoadingException: Mod §eminecolonies§r requires §6domum_ornamentum§r §o1.19-1.0.141-BETA or above§r
+§7Currently, §6domum_ornamentum§r§7 is §o1.19-1.0.107-RELEASE
+	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.19.2-43.4.2.jar%23132!/:?] {}
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?] {}
+	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?] {}
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?] {}
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?] {}
+	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:99) ~[fmlcore-1.19.2-43.4.2.jar%23132!/:?] {}
+	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:131) ~[fmlcore-1.19.2-43.4.2.jar%23132!/:?] {}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:32) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+Negative index in crash report handler (16/18)
+[23:01:49] [main/FATAL] [ne.mi.se.lo.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2024-11-12_23.01.49-fml.txt
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 2024-11-12 23:01:49
+Description: Mod loading error has occurred
+
+java.lang.Exception: Mod Loading has failed
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:55) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: main
+Suspected Mods: NONE
+Stacktrace:
+	at net.minecraftforge.logging.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:58) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+-- MOD minecolonies --
+Details:
+	Mod File: /root/MinecraftServerForge1.19.2-43.4.2/mods/minecolonies-1.19.2-1.1.628-BETA.jar
+	Failure message: Mod minecolonies requires domum_ornamentum 1.19-1.0.141-BETA or above
+		Currently, domum_ornamentum is 1.19-1.0.107-RELEASE
+	Mod Version: 1.19.2-1.1.628-BETA
+	Mod Issue URL: https://github.com/ldtteam/minecolonies/issues/new/choose
+	Exception message: MISSING EXCEPTION MESSAGE
+Stacktrace:
+	at net.minecraftforge.logging.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:58) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?] {}
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:56) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Linux (amd64) version 5.15.0-113-generic
+	Java Version: 17.0.13, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 91478016 bytes (87 MiB) / 417333248 bytes (398 MiB) up to 1025507328 bytes (978 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC-Milan Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): 2.00
+	Number of physical packages: 4
+	Number of physical CPUs: 4
+	Number of logical CPUs: 4
+	Graphics card #0 name: Virtio GPU
+	Graphics card #0 vendor: Red Hat, Inc. (0x1af4)
+	Graphics card #0 VRAM (MB): 8.02
+	Graphics card #0 deviceId: 0x1050
+	Graphics card #0 versionInfo: unknown
+	Memory slot #0 capacity (MB): 4096.00
+	Memory slot #0 clockSpeed (GHz): -0.00
+	Memory slot #0 type: RAM
+	Virtual memory max (MB): 1955.72
+	Virtual memory used (MB): 994.93
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 0 total; 
+	ModLauncher: 10.0.8+10.0.8+main.0ef7e830
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.3.jar eventbus PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.8.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		server-1.19.2-20220805.130853-srg.jar             |Minecraft                     |minecraft                     |1.19.2              |NONE      |Manifest: NOSIGNATURE
+		forge-1.19.2-43.4.2-universal.jar                 |Forge                         |forge                         |43.4.2              |NONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90[23:01:49] [main/ERROR] [minecraft/Main]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Mod §eminecolonies§r requires §6domum_ornamentum§r §o1.19-1.0.141-BETA or above§r
+§7Currently, §6domum_ornamentum§r§7 is §o1.19-1.0.107-RELEASE
+]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:152) ~[fmlcore-1.19.2-43.4.2.jar%23132!/:?] {}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:32) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+2024-11-12 23:03:23,647 main WARN Advanced terminal features are not available in this environment
+[23:03:23] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[23:03:23] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 5.15.0-113-generic
+[23:03:24] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[23:03:24] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[23:03:24] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23:03:24] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23:03:24] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23:03:24] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[23:03:24] [main/ERROR] [ne.mi.fm.lo.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'domum_ornamentum', Requested by: 'minecolonies', Expected range: '[1.19-1.0.141-BETA,)', Actual version: '1.19-1.0.107-RELEASE'
+[23:03:25] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23:03:25] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[23:03:25] [main/WARN] [mixin/]: Reference map 'tlc.refmap.json' for tlc.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:28] [main/INFO] [minecraft/DataFixers]: Building unoptimized datafixer
+[23:03:29] [main/FATAL] [ne.mi.fm.ModLoader/CORE]: Error during pre-loading phase
+net.minecraftforge.fml.ModLoadingException: Mod §eminecolonies§r requires §6domum_ornamentum§r §o1.19-1.0.141-BETA or above§r
+§7Currently, §6domum_ornamentum§r§7 is §o1.19-1.0.107-RELEASE
+	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.19.2-43.4.2.jar%23132!/:?] {}
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?] {}
+	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?] {}
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?] {}
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?] {}
+	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:99) ~[fmlcore-1.19.2-43.4.2.jar%23132!/:?] {}
+	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:131) ~[fmlcore-1.19.2-43.4.2.jar%23132!/:?] {}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:32) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+Negative index in crash report handler (16/18)
+[23:03:30] [main/FATAL] [ne.mi.se.lo.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2024-11-12_23.03.30-fml.txt
+---- Minecraft Crash Report ----
+// Everything's going to plan. No, really, that was supposed to happen.
+
+Time: 2024-11-12 23:03:30
+Description: Mod loading error has occurred
+
+java.lang.Exception: Mod Loading has failed
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:55) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: main
+Suspected Mods: NONE
+Stacktrace:
+	at net.minecraftforge.logging.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:58) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+-- MOD minecolonies --
+Details:
+	Mod File: /root/MinecraftServerForge1.19.2-43.4.2/mods/minecolonies-1.19.2-1.1.628-BETA.jar
+	Failure message: Mod minecolonies requires domum_ornamentum 1.19-1.0.141-BETA or above
+		Currently, domum_ornamentum is 1.19-1.0.107-RELEASE
+	Mod Version: 1.19.2-1.1.628-BETA
+	Mod Issue URL: https://github.com/ldtteam/minecolonies/issues/new/choose
+	Exception message: MISSING EXCEPTION MESSAGE
+Stacktrace:
+	at net.minecraftforge.logging.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:58) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?] {}
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:56) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Linux (amd64) version 5.15.0-113-generic
+	Java Version: 17.0.13, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 97154528 bytes (92 MiB) / 332398592 bytes (317 MiB) up to 1025507328 bytes (978 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC-Milan Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): 2.00
+	Number of physical packages: 4
+	Number of physical CPUs: 4
+	Number of logical CPUs: 4
+	Graphics card #0 name: Virtio GPU
+	Graphics card #0 vendor: Red Hat, Inc. (0x1af4)
+	Graphics card #0 VRAM (MB): 8.02
+	Graphics card #0 deviceId: 0x1050
+	Graphics card #0 versionInfo: unknown
+	Memory slot #0 capacity (MB): 4096.00
+	Memory slot #0 clockSpeed (GHz): -0.00
+	Memory slot #0 type: RAM
+	Virtual memory max (MB): 1955.72
+	Virtual memory used (MB): 916.38
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 0 total; 
+	ModLauncher: 10.0.8+10.0.8+main.0ef7e830
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.3.jar eventbus PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.8.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		server-1.19.2-20220805.130853-srg.jar             |Minecraft                     |minecraft                     |1.19.2              |NONE      |Manifest: NOSIGNATURE
+		forge-1.19.2-43.4.2-universal.jar                 |Forge                         |forge                         |43.4.2              |NONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90[23:03:30] [main/ERROR] [minecraft/Main]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Mod §eminecolonies§r requires §6domum_ornamentum§r §o1.19-1.0.141-BETA or above§r
+§7Currently, §6domum_ornamentum§r§7 is §o1.19-1.0.107-RELEASE
+]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:152) ~[fmlcore-1.19.2-43.4.2.jar%23132!/:?] {}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:32) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+2024-11-12 23:03:33,061 main WARN Advanced terminal features are not available in this environment
+[23:03:33] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[23:03:33] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 5.15.0-113-generic
+[23:03:33] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[23:03:33] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[23:03:33] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23:03:33] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23:03:33] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23:03:33] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[23:03:33] [main/ERROR] [ne.mi.fm.lo.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'domum_ornamentum', Requested by: 'minecolonies', Expected range: '[1.19-1.0.141-BETA,)', Actual version: '1.19-1.0.107-RELEASE'
+[23:03:34] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23:03:34] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[23:03:34] [main/WARN] [mixin/]: Reference map 'tlc.refmap.json' for tlc.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:37] [main/INFO] [minecraft/DataFixers]: Building unoptimized datafixer
+[23:03:38] [main/FATAL] [ne.mi.fm.ModLoader/CORE]: Error during pre-loading phase
+net.minecraftforge.fml.ModLoadingException: Mod §eminecolonies§r requires §6domum_ornamentum§r §o1.19-1.0.141-BETA or above§r
+§7Currently, §6domum_ornamentum§r§7 is §o1.19-1.0.107-RELEASE
+	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.19.2-43.4.2.jar%23132!/:?] {}
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?] {}
+	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?] {}
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?] {}
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?] {}
+	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:99) ~[fmlcore-1.19.2-43.4.2.jar%23132!/:?] {}
+	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:131) ~[fmlcore-1.19.2-43.4.2.jar%23132!/:?] {}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:32) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+Negative index in crash report handler (16/18)
+[23:03:38] [main/FATAL] [ne.mi.se.lo.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2024-11-12_23.03.38-fml.txt
+---- Minecraft Crash Report ----
+// Don't be sad. I'll do better next time, I promise!
+
+Time: 2024-11-12 23:03:38
+Description: Mod loading error has occurred
+
+java.lang.Exception: Mod Loading has failed
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:55) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: main
+Suspected Mods: NONE
+Stacktrace:
+	at net.minecraftforge.logging.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:58) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+-- MOD minecolonies --
+Details:
+	Mod File: /root/MinecraftServerForge1.19.2-43.4.2/mods/minecolonies-1.19.2-1.1.628-BETA.jar
+	Failure message: Mod minecolonies requires domum_ornamentum 1.19-1.0.141-BETA or above
+		Currently, domum_ornamentum is 1.19-1.0.107-RELEASE
+	Mod Version: 1.19.2-1.1.628-BETA
+	Mod Issue URL: https://github.com/ldtteam/minecolonies/issues/new/choose
+	Exception message: MISSING EXCEPTION MESSAGE
+Stacktrace:
+	at net.minecraftforge.logging.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:58) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?] {}
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:56) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Linux (amd64) version 5.15.0-113-generic
+	Java Version: 17.0.13, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 99565312 bytes (94 MiB) / 316669952 bytes (302 MiB) up to 1025507328 bytes (978 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC-Milan Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): 2.00
+	Number of physical packages: 4
+	Number of physical CPUs: 4
+	Number of logical CPUs: 4
+	Graphics card #0 name: Virtio GPU
+	Graphics card #0 vendor: Red Hat, Inc. (0x1af4)
+	Graphics card #0 VRAM (MB): 8.02
+	Graphics card #0 deviceId: 0x1050
+	Graphics card #0 versionInfo: unknown
+	Memory slot #0 capacity (MB): 4096.00
+	Memory slot #0 clockSpeed (GHz): -0.00
+	Memory slot #0 type: RAM
+	Virtual memory max (MB): 1955.72
+	Virtual memory used (MB): 888.57
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 0 total; 
+	ModLauncher: 10.0.8+10.0.8+main.0ef7e830
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.3.jar eventbus PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.8.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		server-1.19.2-20220805.130853-srg.jar             |Minecraft                     |minecraft                     |1.19.2              |NONE      |Manifest: NOSIGNATURE
+		forge-1.19.2-43.4.2-universal.jar                 |Forge                         |forge                         |43.4.2              |NONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90[23:03:38] [main/ERROR] [minecraft/Main]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Mod §eminecolonies§r requires §6domum_ornamentum§r §o1.19-1.0.141-BETA or above§r
+§7Currently, §6domum_ornamentum§r§7 is §o1.19-1.0.107-RELEASE
+]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:152) ~[fmlcore-1.19.2-43.4.2.jar%23132!/:?] {}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:32) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+2024-11-12 23:07:33,925 main WARN Advanced terminal features are not available in this environment
+[23:07:34] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[23:07:34] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 5.15.0-113-generic
+[23:07:34] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[23:07:34] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[23:07:34] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23:07:34] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23:07:34] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23:07:34] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[23:07:36] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23:07:36] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[23:07:36] [main/WARN] [mixin/]: Reference map 'tlc.refmap.json' for tlc.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:07:39] [main/INFO] [minecraft/DataFixers]: Building unoptimized datafixer
+[23:07:41] [modloading-worker-0/INFO] [thutessentials/]: []
+[23:07:41] [modloading-worker-0/INFO] [thutessentials/]: []
+[23:07:41] [modloading-worker-0/INFO] [thutessentials/]: []
+[23:07:41] [modloading-worker-0/INFO] [thutessentials/]: {}
+[23:07:41] [modloading-worker-0/INFO] [thutessentials/]: Registering Defuzzer!
+[23:07:41] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[23:07:41] [modloading-worker-0/INFO] [ne.mi.co.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[23:07:41] [modloading-worker-0/INFO] [ne.mi.co.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Warped Netherlands
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Stalactite Caves
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Space Wars
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Shire
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Desert Oasis
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Pagoda
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Minecolonies Original
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Nordic Spruce
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Spruce
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Oak
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Dark Oak
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Birch
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Lost Mesa City
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Jungle Treehouse
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Incan
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Fortress
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Dark Oak Treehouse
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Colonial
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Cavern
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Caledonia
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Birch
+[23:07:41] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Savanna
+[23:07:41] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
+[23:07:41] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
+[23:07:41] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs

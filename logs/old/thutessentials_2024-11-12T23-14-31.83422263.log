@@ -1,0 +1,36 @@
+Registering Defuzzer!
+Loaded thutessentials config file thutessentials/thutessentials-common.toml
+Reading thutessentials/thutessentials-common.toml
+thutessentials/thutessentials-common.toml config belongs to us!
+Reading thutessentials/thutessentials-common.toml
+Server Started
+Starting Loading Land
+Finished Loading Land and Teams
+23:09:00.186820631 minecraft:overworld, BlockPos{x=-3, y=4, z=3}: log-in afb7b56a-c649-3168-8e66-befdae15357f The_Dos
+Login detected, adding player to logins for defuzz.
+23:09:00.602763054 minecraft:overworld, BlockPos{x=-3, y=4, z=3}: log-in c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+Login detected, adding player to logins for defuzz.
+23:09:00.616518524 minecraft:overworld, BlockPos{x=-3, y=4, z=3}: Teleport from minecraft:overworld BlockPos{x=-35, y=69, z=49} to minecraft:overworld BlockPos{x=-32, y=67, z=48} for c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:09:13.145791258 minecraft:overworld, BlockPos{x=-2, y=4, z=3}: break Block{minecraft:grass} at BlockPos{x=-32, y=69, z=54} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:09:13.652834406 minecraft:overworld, BlockPos{x=-3, y=4, z=3}: break Block{minecraft:grass} at BlockPos{x=-36, y=69, z=54} by afb7b56a-c649-3168-8e66-befdae15357f The_Dos
+23:09:26.145107068 minecraft:overworld, BlockPos{x=-3, y=4, z=3}: break Block{minecraft:grass} at BlockPos{x=-41, y=69, z=61} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:10:04.688420127 minecraft:overworld, BlockPos{x=-3, y=4, z=3}: Teleport from minecraft:overworld BlockPos{x=-36, y=69, z=54} to minecraft:overworld BlockPos{x=-32, y=67, z=48} for afb7b56a-c649-3168-8e66-befdae15357f The_Dos
+23:10:14.593496062 minecraft:overworld, BlockPos{x=-2, y=4, z=3}: Teleport from minecraft:overworld BlockPos{x=-31, y=69, z=58} to minecraft:overworld BlockPos{x=-32, y=67, z=48} for c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:10:33.79600106 minecraft:overworld, BlockPos{x=-3, y=4, z=5}: break Block{minecraft:grass_block}[snowy=false] at BlockPos{x=-41, y=66, z=93} by afb7b56a-c649-3168-8e66-befdae15357f The_Dos
+23:10:45.089190865 minecraft:overworld, BlockPos{x=-2, y=4, z=2}: Teleport from minecraft:overworld BlockPos{x=-32, y=66, z=41} to minecraft:overworld BlockPos{x=-32, y=67, z=48} for c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:10:58.231626728 minecraft:overworld, BlockPos{x=-4, y=4, z=6}: break Block{minecraft:oak_leaves}[distance=3,persistent=false,waterlogged=false] at BlockPos{x=-59, y=70, z=103} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:10:58.859358397 minecraft:overworld, BlockPos{x=-4, y=4, z=6}: break Block{minecraft:oak_leaves}[distance=3,persistent=false,waterlogged=false] at BlockPos{x=-59, y=71, z=103} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:11:00.005423887 minecraft:overworld, BlockPos{x=-4, y=4, z=6}: break Block{minecraft:oak_leaves}[distance=1,persistent=false,waterlogged=false] at BlockPos{x=-60, y=69, z=103} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:11:00.6316196 minecraft:overworld, BlockPos{x=-4, y=4, z=6}: break Block{minecraft:oak_leaves}[distance=3,persistent=false,waterlogged=false] at BlockPos{x=-61, y=70, z=103} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:11:05.282824046 minecraft:overworld, BlockPos{x=-2, y=4, z=3}: log-in f7d9c9c5-5a04-347b-90f8-39d881279ece VadimThomas
+Login detected, adding player to logins for defuzz.
+23:11:05.364349061 minecraft:overworld, BlockPos{x=-2, y=4, z=3}: log-out f7d9c9c5-5a04-347b-90f8-39d881279ece VadimThomas
+23:11:19.404745693 minecraft:overworld, BlockPos{x=-5, y=4, z=8}: break Block{minecraft:oak_leaves}[distance=7,persistent=true,waterlogged=false] at BlockPos{x=-80, y=71, z=128} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:11:44.611831033 minecraft:overworld, BlockPos{x=-24, y=4, z=4}: log-out afb7b56a-c649-3168-8e66-befdae15357f The_Dos
+23:11:46.036495205 minecraft:overworld, BlockPos{x=12, y=4, z=14}: break Block{minecraft:black_bed}[facing=west,occupied=false,part=foot] at BlockPos{x=203, y=72, z=227} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:11:46.354748386 minecraft:overworld, BlockPos{x=12, y=4, z=14}: break Block{minecraft:spruce_log}[axis=x] at BlockPos{x=203, y=72, z=226} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:11:48.471857799 minecraft:overworld, BlockPos{x=12, y=4, z=14}: break Block{minecraft:cobweb} at BlockPos{x=204, y=71, z=229} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:11:48.781927535 minecraft:overworld, BlockPos{x=12, y=4, z=14}: break Block{minecraft:dirt} at BlockPos{x=204, y=70, z=229} by c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:11:58.479722509 minecraft:overworld, BlockPos{x=14, y=4, z=12}: open class net.minecraft.world.inventory.ChestMenu c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+23:12:09.087862568 minecraft:overworld, BlockPos{x=13, y=4, z=12}: log-out c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+Server Stopped
