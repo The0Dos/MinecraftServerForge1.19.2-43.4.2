@@ -1,0 +1,107 @@
+
+[back]
+	backActivateDelay = 50
+	backRangeCheck = 5
+	backReUseDelay = 100
+	back_on_death = true
+	back_on_tp = true
+
+[bed]
+	bedActivateDelay = 50
+	bedReUseDelay = 100
+
+[chat]
+	chatFormat = "<%s> %s"
+	useChatFormat = true
+
+[economy]
+	initialBalance = 1000
+	recycleTags = ["Recycle"]
+	sellTags = ["Sell", "Sells", "Sale"]
+	shopsEnabled = true
+
+[homes]
+	homeActivateDelay = 50
+	homeReUseDelay = 100
+	kitReuseDelay = -1
+	maxHomes = 2
+
+[land]
+	blockBreakWhitelist = []
+	blockPlaceWhitelist = []
+	blockUseWhitelist = []
+	chunkLoading = true
+	customMobUsePerms = ["minecraft:armor_stand->thutessentials.land.useblock.unowned,thutessentials.land.useblock.owned.self,thutessentials.land.useblock.owned.other", "minecraft:item_frame->thutessentials.land.useblock.unowned,thutessentials.land.useblock.owned.self,thutessentials.land.useblock.owned.other", "minecraft:chest_minecart->thutessentials.land.useblock.unowned,thutessentials.land.useblock.owned.self,thutessentials.land.useblock.owned.other", "minecraft:furnace_minecart->thutessentials.land.useblock.unowned,thutessentials.land.useblock.owned.self,thutessentials.land.useblock.owned.other"]
+	defaultMessages = true
+	defaultTeamName = "Plebs"
+	denyExplosions = true
+	foodWhitelisted = true
+	itemUseWhitelist = []
+	landEnabled = true
+	legacyDimMap = ["0->overworld", "-1->the_nether", "1->the_end"]
+	logTeamChat = true
+	maxChunkloads = 9
+	mobUseWhitelist = []
+	noMobGriefing = true
+	prefixLength = 12
+	teamLandPerPlayer = 125
+	wildernessTeam = false
+	wildernessTeamName = "Wilderness"
+
+[logging]
+	inventory_log_blacklist = []
+	log_interactions = true
+	log_inventory_use = true
+	log_teleports = true
+
+[misc]
+	comandDisableSpam = true
+	commandBlacklist = []
+	debug = false
+	defuzz = true
+	defuzzKey = ""
+	dim_verison = 0
+	firstSpawn = ""
+	invulnMobs = []
+	lang_file = "en_us.json"
+	maxSpeed = 10.0
+	postTeleInvulDur = 20
+	pvpPerms = false
+	rules = []
+	scheduledCommands = []
+	spawnActivateDelay = 50
+	spawnReUseDelay = 100
+	spawnWorld = "minecraft:overworld"
+	versioned_dim_seeds = []
+	versioned_dim_warning = true
+	versioned_dims = []
+
+[mobs]
+	mobGriefAllowBlacklist = []
+	mobGriefAllowUsesWhitelist = true
+	mobGriefAllowWhitelist = ["minecraft:villager"]
+	mobSpawnBlacklist = []
+	mobSpawnUsesWhitelist = false
+	mobSpawnWhitelist = []
+
+[rtp]
+	rtpActivateDelay = 50
+	rtpCentre = "0,0"
+	rtpDistance = 5000
+	rtpPlayerCentred = false
+	rtpReUseDelay = 100
+	rtpSpawnCentred = true
+
+[staff]
+	staff = []
+
+[tpa]
+	tpaActivateDelay = 50
+	tpaCrossDim = true
+	tpaReUseDelay = 100
+
+[warps]
+	warpActivateDelay = 50
+	warpReUseDelay = 100
+	warps = []
+

@@ -1,0 +1,10 @@
+Registering Defuzzer!
+Loaded thutessentials config file thutessentials\thutessentials-common.toml
+Reading thutessentials\thutessentials-common.toml
+Server Started
+Starting Loading Land
+Finished Loading Land and Teams
+23:15:04.5237368 minecraft:overworld, BlockPos{x=-2, y=4, z=3}: log-in afb7b56a-c649-3168-8e66-befdae15357f The_Dos
+Login detected, adding player to logins for defuzz.
+23:15:15.0037091 minecraft:overworld, BlockPos{x=-2, y=4, z=3}: log-out afb7b56a-c649-3168-8e66-befdae15357f The_Dos
+Server Stopped

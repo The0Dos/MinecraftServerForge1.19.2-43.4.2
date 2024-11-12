@@ -1,0 +1,15 @@
+{
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "ominous_woods": "2024-11-12 23:01:22 +0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "ominous_woods": "2024-11-12 23:01:22 +0500"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
