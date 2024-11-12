@@ -800,3 +800,350 @@ net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
 [23:07:41] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
 [23:07:41] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
 [23:07:41] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
+[00:16:15] [main/INFO] [thutessentials/]: Loaded thutessentials config file thutessentials/thutessentials-common.toml
+[00:16:15] [main/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[00:16:15] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[00:16:15] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[00:16:16] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[00:16:16] [main/INFO] [journeymap/]: Initializing Packet Registries
+[00:16:16] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
+[00:16:16] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.5
+[00:16:16] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[00:16:17] [main/INFO] [mojang/YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:16:17] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[00:16:18] [main/WARN] [minecraft/VanillaPackResources]: Assets URL 'union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23131!/assets/.mcassetsroot' uses unexpected schema
+[00:16:18] [main/WARN] [minecraft/VanillaPackResources]: Assets URL 'union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23131!/data/.mcassetsroot' uses unexpected schema
+[00:16:19] [main/INFO] [minecraft/RecipeManager]: Loaded 11 recipes
+[00:16:20] [main/INFO] [minecraft/AdvancementList]: Loaded 1592 advancements
+[00:16:20] [main/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
+[00:16:20] [main/INFO] [minecolonies/]: Loaded 130 recipes for 14 crafters
+[00:16:20] [main/INFO] [minecolonies/]: Beginning load of research for University.
+[00:16:20] [main/INFO] [minecolonies/]: Loaded 201 recipes for 4 research branches
+[00:16:20] [main/INFO] [minecolonies/]: Loading quests from data
+[00:16:20] [main/INFO] [minecolonies/]: Finished loading quests from data
+[00:16:20] [main/WARN] [minecolonies/]: Read 1362 items with their nbt keys for compatibility.
+[00:16:20] [Server thread/INFO] [minecraft/DedicatedServer]: Starting minecraft server version 1.19.2
+[00:16:20] [Server thread/INFO] [minecraft/DedicatedServer]: Loading properties
+[00:16:20] [Server thread/INFO] [minecraft/DedicatedServer]: Default game type: SURVIVAL
+[00:16:20] [Server console handler/ERROR] [minecraft/DedicatedServer]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?] {}
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?] {}
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?] {}
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:281) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:324) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:189) ~[?:?] {}
+	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?] {}
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?] {}
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?] {}
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?] {}
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:90) [server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+[00:16:20] [Server thread/INFO] [minecraft/MinecraftServer]: Generating keypair
+[00:16:20] [Server thread/INFO] [minecraft/DedicatedServer]: Starting Minecraft server on *:25565
+[00:16:20] [Server thread/INFO] [minecraft/ServerConnectionListener]: Using epoll channel type
+[00:16:20] [Server thread/WARN] [minecraft/DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:16:20] [Server thread/WARN] [minecraft/DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[00:16:20] [Server thread/WARN] [minecraft/DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:16:20] [Server thread/WARN] [minecraft/DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:16:20] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[00:16:20] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[00:16:20] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[00:16:20] [Server thread/INFO] [spark/]: Starting background profiler...
+[00:16:21] [Server thread/INFO] [minecraft/DedicatedServer]: Preparing level "world"
+[00:16:21] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[00:16:21] [Netty Epoll Server IO #1/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:22] [Netty Epoll Server IO #2/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:22] [Netty Epoll Server IO #3/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:22] [Netty Epoll Server IO #4/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:24] [Netty Epoll Server IO #5/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:24] [Netty Epoll Server IO #6/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:25] [Netty Epoll Server IO #7/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:26] [Netty Epoll Server IO #0/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:26] [Netty Epoll Server IO #1/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:27] [Netty Epoll Server IO #2/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:27] [Netty Epoll Server IO #3/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:28] [Netty Epoll Server IO #4/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:28] [Netty Epoll Server IO #5/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:28] [Netty Epoll Server IO #6/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:29] [Netty Epoll Server IO #7/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:29] [Netty Epoll Server IO #0/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:29] [Netty Epoll Server IO #1/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:30] [Netty Epoll Server IO #2/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:30] [Netty Epoll Server IO #3/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:31] [Netty Epoll Server IO #4/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:31] [Netty Epoll Server IO #6/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:32] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:16:32] [Netty Epoll Server IO #7/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:32] [Worker-Main-2/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 4%
+[00:16:33] [Netty Epoll Server IO #0/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:33] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 30%
+[00:16:33] [Netty Epoll Server IO #1/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[00:16:33] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 65%
+[00:16:34] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 99%
+[00:16:34] [Server thread/INFO] [minecraft/LoggerChunkProgressListener]: Time elapsed: 13008 ms
+[00:16:34] [Server thread/INFO] [minecraft/DedicatedServer]: Done (13.715s)! For help, type "help"
+[00:16:34] [Server thread/INFO] [ne.mi.se.pe.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[00:16:34] [Server thread/INFO] [thutessentials/]: Server Started
+[00:16:34] [Server thread/INFO] [thutessentials/]: Starting Loading Land
+[00:16:34] [Server thread/INFO] [thutessentials/]: Finished Loading Land and Teams
+[00:16:34] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 9
+[00:16:34] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 19 22
+[00:16:34] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
+[00:16:34] [Server thread/INFO] [minecolonies/]: Finished discovering food 106 126
+[00:16:34] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 225
+[00:16:34] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 222
+[00:16:34] [Server thread/INFO] [minecolonies/]: Finished discovering lucky oreBlocks 6
+[00:16:34] [Server thread/INFO] [minecolonies/]: Finished discovering recruitment costs
+[00:16:34] [Server thread/INFO] [minecolonies/]: Finished discovering diseases
+[00:16:37] [Server thread/WARN] [minecraft/SynchedEntityData]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[00:16:37] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d1512a5
+[00:16:37] [Server thread/INFO] [minecraft/PlayerList]: The_Dos[/188.186.208.18:29113] logged in with entity id 149 at (1669.357205273423, 69.0, -633.9318869672218)
+[00:16:37] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos joined the game
+[00:16:37] [Server thread/INFO] [structurize/]: New Server UUID 74837f05-6167-4bf8-9017-a34e906806de
+[00:16:37] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[00:16:40] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[00:16:42] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1cf85d3b
+[00:16:42] [Server thread/INFO] [minecraft/PlayerList]: VadimThomas[/5.3.142.22:51534] logged in with entity id 371 at (211.8571915358467, 65.76863634655165, 217.24611165875493)
+[00:16:42] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas joined the game
+[00:16:42] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[00:16:44] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2361bf4a
+[00:16:44] [Server thread/INFO] [minecraft/PlayerList]: Hezare0[/176.59.192.244:61818] logged in with entity id 508 at (123.08764502636916, 94.0, -259.8838844493069)
+[00:16:44] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 joined the game
+[00:16:44] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[00:16:44] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7e1e2664
+[00:16:44] [Server thread/INFO] [minecraft/PlayerList]: DIXAI[/176.28.65.163:12354] logged in with entity id 509 at (341.8005635776468, -10.0, 776.0631530858495)
+[00:16:44] [Server thread/INFO] [minecraft/MinecraftServer]: DIXAI joined the game
+[00:16:44] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[00:18:14] [Server thread/INFO] [minecraft/MinecraftServer]: DIXAI has made the advancement [Not Today, Thank You]
+[00:18:17] [Server thread/INFO] [minecolonies/]: New Colony Id: 1 by Hezare0
+[00:19:56] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [Sweet Dreams]
+[00:21:06] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas has made the advancement [Sweet Dreams]
+[00:21:37] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
+[00:22:46] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas has made the advancement [A Seedy Place]
+[00:22:55] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[00:23:38] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [Not Today, Thank You]
+[00:24:08] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: DIXAI lost connection: Disconnected
+[00:24:08] [Server thread/INFO] [minecraft/MinecraftServer]: DIXAI left the game
+[00:24:29] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4af18c4c
+[00:24:30] [Server thread/INFO] [minecraft/PlayerList]: DIXAI[/176.28.65.163:12671] logged in with entity id 6474 at (337.60841922238507, -53.57472587780277, 770.2594421733131)
+[00:24:30] [Server thread/INFO] [minecraft/MinecraftServer]: DIXAI joined the game
+[00:24:30] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[00:24:32] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[00:25:34] [Server thread/INFO] [minecraft/MinecraftServer]: DIXAI has made the advancement [Hot Stuff]
+[00:25:54] [Server thread/INFO] [minecraft/MinecraftServer]: [The_Dos: Set the time to 1000]
+[00:26:57] [Server thread/INFO] [minecraft/MinecraftServer]: DIXAI has made the advancement [Ice Bucket Challenge]
+[00:28:17] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [Diamonds!]
+[00:28:56] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <Hezare0> ac
+[00:29:08] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2212ms or 44 ticks behind
+[00:29:08] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: Hezare0 moved too quickly! 4.338877946404111,-1.1661092609382138,9.14064543926105
+[00:29:48] [Server thread/WARN] [minecraft/LevelChunk]: Tried to load a block entity for block Block{minecolonies:blockhutfield}[facing=south,half=upper] but failed at location BlockPos{x=399, y=78, z=1354}
+[00:30:47] [Server thread/INFO] [minecraft/MinecraftServer]: DIXAI has made the advancement [Crops of the Wild]
+[00:31:53] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [Crops of the Wild]
+[00:34:12] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: DIXAI lost connection: Disconnected
+[00:34:12] [Server thread/INFO] [minecraft/MinecraftServer]: DIXAI left the game
+[00:34:16] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7fc7b79c
+[00:34:16] [Server thread/INFO] [minecraft/PlayerList]: DIXAI[/176.28.65.163:12993] logged in with entity id 14038 at (327.3884377007141, 61.0, 1192.8857437815689)
+[00:34:16] [Server thread/INFO] [minecraft/MinecraftServer]: DIXAI joined the game
+[00:34:16] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[00:34:44] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas has made the advancement [Crops of the Wild]
+[00:37:50] [Server thread/INFO] [minecraft/MinecraftServer]: [The_Dos: Set the time to 1000]
+[00:38:07] [Server thread/INFO] [minecraft/Villager]: Villager Villager['Nitwit'/10519, l='ServerLevel[world]', x=307.48, y=65.00, z=1175.30] died, message: 'Nitwit was slain by Zombie'
+[00:38:36] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
+[00:39:14] [Server thread/INFO] [minecraft/MinecraftServer]: [The_Dos: Teleported The_Dos to DIXAI]
+[00:39:32] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas has made the advancement [Isn't It Iron Pick]
+[00:40:48] [Server thread/INFO] [minecraft/MinecraftServer]: DIXAI has made the advancement [We Need to Go Deeper]
+[00:40:48] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2625ms or 52 ticks behind
+[00:40:58] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas has made the advancement [We Need to Go Deeper]
+[00:40:59] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: VadimThomas moved too quickly! -286.0979041550119,-16.5,-1096.241107126667
+[00:40:59] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: VadimThomas moved too quickly! -286.0979041550119,-16.5,-1096.241107126667
+[00:41:59] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [Not Today, Thank You]
+[00:43:38] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[00:44:02] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [Suit Up]
+[00:46:46] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has reached the goal [Build a Builder Building]
+[00:47:44] [Server thread/INFO] [minecraft/MinecraftServer]: DIXAI has made the advancement [MineColonies]
+[00:48:20] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [Sweet Dreams]
+[00:51:27] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+java.lang.OutOfMemoryError: Java heap space
+[00:51:53] [IO-Worker-28/ERROR] [minecraft/Util]: Caught exception in thread Thread[IO-Worker-28,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+[00:51:54] [IO-Worker-30/ERROR] [minecraft/Util]: Caught exception in thread Thread[IO-Worker-30,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+[00:51:43] [IO-Worker-27/ERROR] [minecraft/Util]: Caught exception in thread Thread[IO-Worker-27,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+	at java.util.HashMap.newNode(HashMap.java:1901) ~[?:?] {}
+	at java.util.HashMap.putVal(HashMap.java:629) ~[?:?] {}
+	at java.util.HashMap.put(HashMap.java:610) ~[?:?] {}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:44) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:279) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:225) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.NbtIo.m_128928_(NbtIo.java:221) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63706_(RegionFileStorage.java:57) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223494_(IOWorker.java:186) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.storage.IOWorker$$Lambda$8796/0x00007f273d162b70.get(Unknown Source) ~[?:?] {}
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223468_(IOWorker.java:236) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.storage.IOWorker$$Lambda$8800/0x00007f273d1636b8.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?] {}
+[00:51:54] [Worker-Main-1/ERROR] [minecraft/Util]: Caught exception in thread Thread[Worker-Main-1,5,main]
+java.lang.OutOfMemoryError: Java heap space
+[00:51:33] [IO-Worker-26/ERROR] [minecraft/Util]: Caught exception in thread Thread[IO-Worker-26,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+	at java.io.DataInputStream.readUTF(DataInputStream.java:654) ~[?:?] {}
+	at java.io.DataInputStream.readUTF(DataInputStream.java:558) ~[?:?] {}
+	at net.minecraft.nbt.StringTag$1.m_7300_(StringTag.java:15) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.StringTag$1.m_7300_(StringTag.java:12) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:279) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:225) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.nbt.NbtIo.m_128928_(NbtIo.java:221) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63706_(RegionFileStorage.java:57) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223494_(IOWorker.java:186) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.storage.IOWorker$$Lambda$8796/0x00007f273d162b70.get(Unknown Source) ~[?:?] {}
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223468_(IOWorker.java:236) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.storage.IOWorker$$Lambda$8800/0x00007f273d1636b8.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+[00:52:06] [IO-Worker-32/ERROR] [minecraft/Util]: Caught exception in thread Thread[IO-Worker-32,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+[00:52:12] [Server Watchdog/ERROR] [minecraft/ServerWatchdog]: A single server tick took 60.51 seconds (should be max 0.05)
+[00:52:13] [Server Watchdog/ERROR] [minecraft/ServerWatchdog]: Considering it to be crashed, server will forcibly shutdown.
+[00:52:13] [IO-Worker-31/ERROR] [minecraft/Util]: Caught exception in thread Thread[IO-Worker-31,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+[00:52:15] [Worker-Main-1/ERROR] [minecraft/Util]: Caught exception in thread Thread[Worker-Main-1,5,main]
+java.lang.OutOfMemoryError: Java heap space
+[00:52:32] [IO-Worker-33/ERROR] [minecraft/Util]: Caught exception in thread Thread[IO-Worker-33,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+
+Exception: java.lang.OutOfMemoryError thrown from the UncaughtExceptionHandler in thread "Server Watchdog"
+
+Exception: java.lang.OutOfMemoryError thrown from the UncaughtExceptionHandler in thread "IO-Worker-35"
+[00:53:00] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 109663ms or 2193 ticks behind
+[00:53:01] [Worker-Main-1/WARN] [minecraft/Util]: Worker-Main-1 died
+java.lang.OutOfMemoryError: Java heap space
+[00:53:01] [Worker-Main-1/ERROR] [minecraft/Util]: Caught exception in thread Thread[Worker-Main-1,5,main]
+java.lang.OutOfMemoryError: Java heap space
+[00:53:01] [IO-Worker-34/ERROR] [minecraft/Util]: Caught exception in thread Thread[IO-Worker-34,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+[00:53:06] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[00:53:15] [IO-Worker-36/ERROR] [minecraft/Util]: Caught exception in thread Thread[IO-Worker-36,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+
+Exception: java.lang.OutOfMemoryError thrown from the UncaughtExceptionHandler in thread "Thread-0"
+java.lang.OutOfMemoryError: Java heap space
+[00:53:53] [IO-Worker-25/ERROR] [minecraft/Util]: Caught exception in thread Thread[IO-Worker-25,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+[00:53:53] [Netty Epoll Server IO #2/WARN] [io.ne.ch.DefaultChannelPipeline/]: An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.ChannelPipelineException: net.minecraft.network.PacketDecoder.handlerRemoved() has thrown an exception.
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved0(DefaultChannelPipeline.java:640) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline.destroyDown(DefaultChannelPipeline.java:876) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline.destroyUp(DefaultChannelPipeline.java:844) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline.destroy(DefaultChannelPipeline.java:836) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline.access$700(DefaultChannelPipeline.java:46) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelUnregistered(DefaultChannelPipeline.java:1392) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelUnregistered(AbstractChannelHandlerContext.java:198) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelUnregistered(AbstractChannelHandlerContext.java:184) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline.fireChannelUnregistered(DefaultChannelPipeline.java:821) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:821) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final] {}
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final] {}
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final] {}
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:391) [netty-transport-classes-epoll-4.1.77.Final.jar%2385!/:4.1.77.Final] {}
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final] {}
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {}
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0, decrement: 1
+	at io.netty.util.internal.ReferenceCountUpdater.toLiveRealRefCnt(ReferenceCountUpdater.java:83) ~[netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final] {}
+	at io.netty.util.internal.ReferenceCountUpdater.release(ReferenceCountUpdater.java:147) ~[netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final] {}
+	at io.netty.buffer.AbstractReferenceCountedByteBuf.release(AbstractReferenceCountedByteBuf.java:101) ~[netty-buffer-4.1.77.Final.jar%2379!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.handlerRemoved(ByteToMessageDecoder.java:258) ~[netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.callHandlerRemoved(AbstractChannelHandlerContext.java:946) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved0(DefaultChannelPipeline.java:637) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final] {}
+	... 16 more
+Negative index in crash report handler (0/6)
+[00:53:55] [Server thread/ERROR] [minecraft/MinecraftServer]: Encountered an unexpected exception
+net.minecraft.ReportedException: Exception ticking world
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:870) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {}
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[00:53:55] [Server thread/FATAL] [ne.mi.co.ForgeMod/]: Preparing crash report with UUID 871d0f97-78bf-4177-9033-c0aa4d1f2ada
+[00:53:55] [Server thread/ERROR] [minecraft/MinecraftServer]: This crash report has been saved to: /root/MinecraftServerForge1.19.2-43.4.2/./crash-reports/crash-2024-11-13_00.53.55-server.txt
+[00:53:55] [Server thread/INFO] [minecraft/MinecraftServer]: Stopping server
+[00:53:56] [Server thread/INFO] [minecraft/MinecraftServer]: Saving players
+[00:54:00] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+java.lang.OutOfMemoryError: Java heap space
+[00:54:04] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: The_Dos lost connection: Disconnected
+[00:54:04] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos left the game
+[00:54:04] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Hezare0 lost connection: Disconnected
+[00:54:04] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 left the game
+[00:54:05] [Server thread/INFO] [minecraft/MinecraftServer]: Saving worlds
+
+Exception: java.lang.OutOfMemoryError thrown from the UncaughtExceptionHandler in thread "Worker-Main-39"
+
+Exception: java.lang.OutOfMemoryError thrown from the UncaughtExceptionHandler in thread "Worker-Main-2"
+
+Exception: java.lang.OutOfMemoryError thrown from the UncaughtExceptionHandler in thread "spark-async-sampler-worker-thread"
+
+Exception: java.lang.OutOfMemoryError thrown from the UncaughtExceptionHandler in thread "Server thread"
+run.sh: 8: Syntax error: Unterminated quoted string

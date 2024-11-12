@@ -1,316 +1,328 @@
-[12Nov2024 23:14:24.228] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
-[12Nov2024 23:14:24.231] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 5.15.0-113-generic
-[12Nov2024 23:14:24.595] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[12Nov2024 23:14:24.793] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[12Nov2024 23:14:24.794] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[12Nov2024 23:14:24.795] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[12Nov2024 23:14:24.796] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[12Nov2024 23:14:24.894] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[12Nov2024 23:14:26.237] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[12Nov2024 23:14:26.260] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[12Nov2024 23:14:26.284] [main/WARN] [mixin/]: Reference map 'tlc.refmap.json' for tlc.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Nov2024 23:14:30.114] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[12Nov2024 23:14:31.797] [modloading-worker-0/INFO] [thutessentials/]: []
-[12Nov2024 23:14:31.797] [modloading-worker-0/INFO] [thutessentials/]: []
-[12Nov2024 23:14:31.797] [modloading-worker-0/INFO] [thutessentials/]: []
-[12Nov2024 23:14:31.799] [modloading-worker-0/INFO] [thutessentials/]: {}
-[12Nov2024 23:14:31.846] [modloading-worker-0/INFO] [thutessentials/]: Registering Defuzzer!
-[12Nov2024 23:14:31.859] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[12Nov2024 23:14:31.956] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[12Nov2024 23:14:31.956] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[12Nov2024 23:14:32.007] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Warped Netherlands
-[12Nov2024 23:14:32.009] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Stalactite Caves
-[12Nov2024 23:14:32.009] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Space Wars
-[12Nov2024 23:14:32.009] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Shire
-[12Nov2024 23:14:32.009] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Desert Oasis
-[12Nov2024 23:14:32.009] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Pagoda
-[12Nov2024 23:14:32.010] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Minecolonies Original
-[12Nov2024 23:14:32.010] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Nordic Spruce
-[12Nov2024 23:14:32.010] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Spruce
-[12Nov2024 23:14:32.010] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Oak
-[12Nov2024 23:14:32.010] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Dark Oak
-[12Nov2024 23:14:32.010] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Birch
-[12Nov2024 23:14:32.011] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Lost Mesa City
-[12Nov2024 23:14:32.011] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Jungle Treehouse
-[12Nov2024 23:14:32.011] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Incan
-[12Nov2024 23:14:32.011] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Fortress
-[12Nov2024 23:14:32.011] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Dark Oak Treehouse
-[12Nov2024 23:14:32.011] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Colonial
-[12Nov2024 23:14:32.011] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Cavern
-[12Nov2024 23:14:32.020] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Caledonia
-[12Nov2024 23:14:32.020] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Birch
-[12Nov2024 23:14:32.020] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Savanna
-[12Nov2024 23:14:32.021] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
-[12Nov2024 23:14:32.021] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
-[12Nov2024 23:14:32.021] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
-[12Nov2024 23:14:33.283] [main/INFO] [thutessentials/]: Loaded thutessentials config file thutessentials/thutessentials-common.toml
-[12Nov2024 23:14:33.284] [main/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
-[12Nov2024 23:14:33.285] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
-[12Nov2024 23:14:33.288] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
-[12Nov2024 23:14:33.611] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[12Nov2024 23:14:33.714] [main/INFO] [journeymap/]: Initializing Packet Registries
-[12Nov2024 23:14:33.762] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
-[12Nov2024 23:14:34.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.5
-[12Nov2024 23:14:34.326] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[12Nov2024 23:14:34.571] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12Nov2024 23:14:34.599] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23131!/assets/.mcassetsroot' uses unexpected schema
-[12Nov2024 23:14:34.599] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23131!/data/.mcassetsroot' uses unexpected schema
-[12Nov2024 23:14:34.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
-[12Nov2024 23:14:36.574] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[12Nov2024 23:14:36.972] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1592 advancements
-[12Nov2024 23:14:36.981] [main/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
-[12Nov2024 23:14:36.988] [main/INFO] [minecolonies/]: Loaded 130 recipes for 14 crafters
-[12Nov2024 23:14:36.988] [main/INFO] [minecolonies/]: Beginning load of research for University.
-[12Nov2024 23:14:37.017] [main/INFO] [minecolonies/]: Loaded 201 recipes for 4 research branches
-[12Nov2024 23:14:37.024] [main/INFO] [minecolonies/]: Loading quests from data
-[12Nov2024 23:14:37.028] [main/INFO] [minecolonies/]: Finished loading quests from data
-[12Nov2024 23:14:37.040] [main/WARN] [minecolonies/]: Read 1362 items with their nbt keys for compatibility.
-[12Nov2024 23:14:37.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[12Nov2024 23:14:37.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[12Nov2024 23:14:37.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[12Nov2024 23:14:37.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[12Nov2024 23:14:37.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[12Nov2024 23:14:37.770] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[12Nov2024 23:14:37.927] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12Nov2024 23:14:37.928] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[12Nov2024 23:14:37.928] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12Nov2024 23:14:37.928] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[12Nov2024 23:14:37.943] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/inventorysorter-server.toml is not correct. Correcting
-[12Nov2024 23:14:37.944] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklists was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:37.944] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklists.containerBlacklist was corrected from null to its default, []. 
-[12Nov2024 23:14:37.944] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklists.slotBlacklist was corrected from null to its default, []. 
-[12Nov2024 23:14:37.948] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/jei-server.toml is not correct. Correcting
-[12Nov2024 23:14:37.949] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:37.949] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
-[12Nov2024 23:14:37.949] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
-[12Nov2024 23:14:37.949] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
-[12Nov2024 23:14:37.951] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/structurize-server.toml is not correct. Correcting
-[12Nov2024 23:14:37.952] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:37.952] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.ignoreSchematicsFromJar was corrected from null to its default, false. 
-[12Nov2024 23:14:37.952] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.allowPlayerSchematics was corrected from null to its default, true. 
-[12Nov2024 23:14:37.952] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.maxOperationsPerTick was corrected from null to its default, 1000. 
-[12Nov2024 23:14:37.953] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.maxCachedChanges was corrected from null to its default, 10. 
-[12Nov2024 23:14:37.953] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.maxCachedSchematics was corrected from null to its default, 100. 
-[12Nov2024 23:14:37.953] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.maxBlocksChecked was corrected from null to its default, 1000. 
-[12Nov2024 23:14:37.953] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.schematicBlockLimit was corrected from null to its default, 100000. 
-[12Nov2024 23:14:37.954] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.iteratorType was corrected from null to its default, default. 
-[12Nov2024 23:14:37.955] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key teleport was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:37.955] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key teleport.teleportAllowed was corrected from null to its default, true. 
-[12Nov2024 23:14:37.955] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key teleport.teleportBuildDirection was corrected from null to its default, south. 
-[12Nov2024 23:14:37.955] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key teleport.teleportBuildDistance was corrected from null to its default, 3. 
-[12Nov2024 23:14:37.956] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key teleport.teleportSafety was corrected from null to its default, true. 
-[12Nov2024 23:14:37.957] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key update was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:37.957] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key update.mode was corrected from null to its default, DISABLED. 
-[12Nov2024 23:14:37.957] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key update.start was corrected from null to its default, [-10, -10]. 
-[12Nov2024 23:14:37.958] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key update.end was corrected from null to its default, [10, 10]. 
-[12Nov2024 23:14:37.961] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/journeymap-server.toml is not correct. Correcting
-[12Nov2024 23:14:37.961] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:37.961] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins.opAccess was corrected from null to its default, true. 
-[12Nov2024 23:14:37.961] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins.serverAdmins was corrected from null to its default, [mysticdrew, 79f597fe-2877-4ecb-acdf-8c58cc1854ca]. 
-[12Nov2024 23:14:37.962] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Nov2024 23:14:37.963] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Nov2024 23:14:37.963] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Nov2024 23:14:37.964] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Nov2024 23:14:37.964] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Nov2024 23:14:37.965] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[12Nov2024 23:14:37.965] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:37.966] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[12Nov2024 23:14:37.966] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[12Nov2024 23:14:37.966] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[12Nov2024 23:14:37.967] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
-[12Nov2024 23:14:37.967] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
-[12Nov2024 23:14:37.967] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
-[12Nov2024 23:14:37.968] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[12Nov2024 23:14:37.970] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/minecolonies-server.toml is not correct. Correcting
-[12Nov2024 23:14:37.971] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:37.971] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.initialcitizenamount was corrected from null to its default, 4. 
-[12Nov2024 23:14:37.972] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.builderplaceconstructiontape was corrected from null to its default, true. 
-[12Nov2024 23:14:37.972] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.allowinfinitesupplychests was corrected from null to its default, false. 
-[12Nov2024 23:14:37.972] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.allowinfinitecolonies was corrected from null to its default, false. 
-[12Nov2024 23:14:37.972] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.allowotherdimcolonies was corrected from null to its default, true. 
-[12Nov2024 23:14:37.972] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.citizenrespawninterval was corrected from null to its default, 60. 
-[12Nov2024 23:14:37.973] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.maxcitizenpercolony was corrected from null to its default, 250. 
-[12Nov2024 23:14:37.973] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.builderbuildblockdelay was corrected from null to its default, 15. 
-[12Nov2024 23:14:37.973] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.blockminingdelaymodifier was corrected from null to its default, 500. 
-[12Nov2024 23:14:37.973] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.enableindevelopmentfeatures was corrected from null to its default, false. 
-[12Nov2024 23:14:37.974] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.alwaysrendernametag was corrected from null to its default, true. 
-[12Nov2024 23:14:37.974] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.workersalwaysworkinrain was corrected from null to its default, false. 
-[12Nov2024 23:14:37.974] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.sendenteringleavingmessages was corrected from null to its default, true. 
-[12Nov2024 23:14:37.975] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.allowglobalnamechanges was corrected from null to its default, 1. 
-[12Nov2024 23:14:37.975] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.holidayfeatures was corrected from null to its default, true. 
-[12Nov2024 23:14:37.975] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.dirtfromcompost was corrected from null to its default, 1. 
-[12Nov2024 23:14:37.975] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.luckyblockchance was corrected from null to its default, 1. 
-[12Nov2024 23:14:37.976] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.minthleveltoteleport was corrected from null to its default, 3. 
-[12Nov2024 23:14:37.976] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.suggestbuildtoolplacement was corrected from null to its default, true. 
-[12Nov2024 23:14:37.976] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.foodmodifier was corrected from null to its default, 1.0. 
-[12Nov2024 23:14:37.976] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.diseasemodifier was corrected from null to its default, 5. 
-[12Nov2024 23:14:37.977] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.forceloadcolony was corrected from null to its default, false. 
-[12Nov2024 23:14:37.977] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.loadtime was corrected from null to its default, 10. 
-[12Nov2024 23:14:37.977] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.colonyloadstrictness was corrected from null to its default, 3. 
-[12Nov2024 23:14:37.978] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.badvisitorchance was corrected from null to its default, 2. 
-[12Nov2024 23:14:37.978] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.maxtreesize was corrected from null to its default, 400. 
-[12Nov2024 23:14:37.978] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.nosupplyplacementrestrictions was corrected from null to its default, false. 
-[12Nov2024 23:14:37.978] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gameplay.skyraiders was corrected from null to its default, false. 
-[12Nov2024 23:14:37.980] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key research was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:37.980] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key research.researchcreativecompletion was corrected from null to its default, true. 
-[12Nov2024 23:14:37.981] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key research.researchdebuglog was corrected from null to its default, false. 
-[12Nov2024 23:14:37.981] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key research.researchresetcost was corrected from null to its default, [minecolonies:ancienttome:1]. 
-[12Nov2024 23:14:37.982] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key commands was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:37.982] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key commands.canplayerusertpcommand was corrected from null to its default, false. 
-[12Nov2024 23:14:37.983] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key commands.canplayerusecolonytpcommand was corrected from null to its default, false. 
-[12Nov2024 23:14:37.983] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key commands.canplayeruseallytownhallteleport was corrected from null to its default, true. 
-[12Nov2024 23:14:37.983] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key commands.canplayerusehometpcommand was corrected from null to its default, false. 
-[12Nov2024 23:14:37.983] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key commands.canplayeruseshowcolonyinfocommand was corrected from null to its default, true. 
-[12Nov2024 23:14:37.984] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key commands.canplayerusekillcitizenscommand was corrected from null to its default, false. 
-[12Nov2024 23:14:37.984] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key commands.canplayeruseaddofficercommand was corrected from null to its default, true. 
-[12Nov2024 23:14:37.984] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key commands.canplayerusedeletecolonycommand was corrected from null to its default, true. 
-[12Nov2024 23:14:37.985] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key commands.numberofattemptsforsafetp was corrected from null to its default, 4. 
-[12Nov2024 23:14:37.986] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key claims was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:37.986] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key claims.maxColonySize was corrected from null to its default, 20. 
-[12Nov2024 23:14:37.987] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key claims.minColonyDistance was corrected from null to its default, 8. 
-[12Nov2024 23:14:37.987] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key claims.initialColonySize was corrected from null to its default, 4. 
-[12Nov2024 23:14:37.987] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key claims.restrictcolonyplacement was corrected from null to its default, false. 
-[12Nov2024 23:14:37.987] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key claims.maxdistancefromworldspawn was corrected from null to its default, 8000. 
-[12Nov2024 23:14:37.987] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key claims.mindistancefromworldspawn was corrected from null to its default, 512. 
-[12Nov2024 23:14:37.988] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key claims.officersreceiveadvancements was corrected from null to its default, true. 
-[12Nov2024 23:14:37.989] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:37.989] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.dobarbariansspawn was corrected from null to its default, true. 
-[12Nov2024 23:14:37.989] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.barbarianhordedifficulty was corrected from null to its default, 5. 
-[12Nov2024 23:14:37.989] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.maxBarbarianSize was corrected from null to its default, 80. 
-[12Nov2024 23:14:37.990] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.dobarbariansbreakthroughwalls was corrected from null to its default, true. 
-[12Nov2024 23:14:37.990] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.averagenumberofnightsbetweenraids was corrected from null to its default, 14. 
-[12Nov2024 23:14:37.990] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.minimumnumberofnightsbetweenraids was corrected from null to its default, 10. 
-[12Nov2024 23:14:37.990] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.mobattackcitizens was corrected from null to its default, true. 
-[12Nov2024 23:14:37.990] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.shouldraiderbreakdoors was corrected from null to its default, true. 
-[12Nov2024 23:14:37.991] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.citizencallforhelp was corrected from null to its default, true. 
-[12Nov2024 23:14:37.991] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.rangerdamagemult was corrected from null to its default, 1.0. 
-[12Nov2024 23:14:37.991] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.knightdamagemult was corrected from null to its default, 1.0. 
-[12Nov2024 23:14:37.991] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.guardhealthmult was corrected from null to its default, 1.0. 
-[12Nov2024 23:14:37.992] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.pvp_mode was corrected from null to its default, false. 
-[12Nov2024 23:14:37.992] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.daysuntilpirateshipsdespawn was corrected from null to its default, 3. 
-[12Nov2024 23:14:37.992] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key combat.maxyforbarbarians was corrected from null to its default, 200. 
-[12Nov2024 23:14:37.994] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key permissions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:37.994] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key permissions.enablecolonyprotection was corrected from null to its default, true. 
-[12Nov2024 23:14:37.994] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key permissions.maxkeptbackups was corrected from null to its default, 50. 
-[12Nov2024 23:14:37.994] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key permissions.turnoffexplosionsincolonies was corrected from null to its default, DAMAGE_ENTITIES. 
-[12Nov2024 23:14:37.994] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key permissions.specialpermgroup was corrected from null to its default, [_Raycoms_]. 
-[12Nov2024 23:14:37.995] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key permissions.freetointeractblocks was corrected from null to its default, [dirt, 0 0 0]. 
-[12Nov2024 23:14:37.995] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key permissions.secondsBetweenPermissionMessages was corrected from null to its default, 30. 
-[12Nov2024 23:14:37.997] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:37.997] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.configliststudyitems was corrected from null to its default, [minecraft:paper;400;100, minecraft:book;600;10]. 
-[12Nov2024 23:14:37.998] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.configlistrecruitmentitems was corrected from null to its default, [minecraft:hay_block;3, minecraft:book;2, minecraft:enchanted_book;9, minecraft:diamond;9, minecraft:emerald;8, minecraft:baked_potato;1, minecraft:gold_ingot;2, minecraft:redstone;2, minecraft:lapis_lazuli;2, minecraft:cake;11, minecraft:sunflower;5, minecraft:honeycomb;6, minecraft:quartz;3]. 
-[12Nov2024 23:14:37.998] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.luckyores was corrected from null to its default, [minecraft:coal_ore!64, minecraft:copper_ore!48, minecraft:iron_ore!32, minecraft:gold_ore!16, minecraft:redstone_ore!8, minecraft:lapis_ore!4, minecraft:diamond_ore!2, minecraft:emerald_ore!1]. 
-[12Nov2024 23:14:37.998] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.dynamictreeharvestsize was corrected from null to its default, 5. 
-[12Nov2024 23:14:37.998] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.fishingroddurabilityadjustt2 was corrected from null to its default, 6. 
-[12Nov2024 23:14:37.999] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.fishingroddurabilityadjustt1 was corrected from null to its default, 22. 
-[12Nov2024 23:14:37.999] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.diseases was corrected from null to its default, [Influenza,100,minecraft:carrot,minecraft:potato, Measles,10,minecraft:dandelion,minecraft:kelp,minecraft:poppy, Smallpox,1,minecraft:honey_bottle,minecraft:golden_apple]. 
-[12Nov2024 23:14:37.999] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.auditcraftingtags was corrected from null to its default, false. 
-[12Nov2024 23:14:37.999] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.debuginventories was corrected from null to its default, false. 
-[12Nov2024 23:14:37.999] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.blueprintbuildmode was corrected from null to its default, false. 
-[12Nov2024 23:14:38.001] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key pathfinding was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:38.002] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key pathfinding.pathfindingdebugverbosity was corrected from null to its default, 0. 
-[12Nov2024 23:14:38.002] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key pathfinding.minimumrailstopath was corrected from null to its default, 8. 
-[12Nov2024 23:14:38.002] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key pathfinding.pathfindingmaxthreadcount was corrected from null to its default, 2. 
-[12Nov2024 23:14:38.004] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key requestSystem was corrected from null to its default, SimpleCommentedConfig:{}. 
-[12Nov2024 23:14:38.004] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key requestSystem.maximalretries was corrected from null to its default, 3. 
-[12Nov2024 23:14:38.004] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key requestSystem.delaybetweenretries was corrected from null to its default, 1200. 
-[12Nov2024 23:14:38.005] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key requestSystem.creativeresolve was corrected from null to its default, false. 
-[12Nov2024 23:14:38.005] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key requestSystem.canplayeruseresetcommand was corrected from null to its default, false. 
-[12Nov2024 23:14:38.145] [Server thread/INFO] [spark/]: Starting background profiler...
-[12Nov2024 23:14:38.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[12Nov2024 23:14:51.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[12Nov2024 23:14:52.071] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Nov2024 23:14:52.078] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Nov2024 23:14:52.079] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Nov2024 23:14:52.589] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Nov2024 23:14:53.074] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Nov2024 23:14:53.540] [Worker-Main-3/INFO] [thutessentials/]: Starting Loading Land
-[12Nov2024 23:14:53.566] [Worker-Main-3/INFO] [thutessentials/]: Finished Loading Land and Teams
-[12Nov2024 23:14:53.578] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Nov2024 23:14:54.084] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[12Nov2024 23:14:54.574] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[12Nov2024 23:14:55.070] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[12Nov2024 23:14:55.571] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[12Nov2024 23:14:56.074] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[12Nov2024 23:14:56.579] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[12Nov2024 23:14:57.080] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[12Nov2024 23:14:57.579] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[12Nov2024 23:14:58.082] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[12Nov2024 23:14:58.570] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[12Nov2024 23:14:59.074] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[12Nov2024 23:14:59.573] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[12Nov2024 23:15:00.073] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
-[12Nov2024 23:15:00.573] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
-[12Nov2024 23:15:01.072] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[12Nov2024 23:15:01.572] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
-[12Nov2024 23:15:02.077] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
-[12Nov2024 23:15:02.570] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
-[12Nov2024 23:15:03.074] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
-[12Nov2024 23:15:03.570] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[12Nov2024 23:15:04.072] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
-[12Nov2024 23:15:04.150] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Nov2024 23:15:04.580] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
-[12Nov2024 23:15:05.071] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
-[12Nov2024 23:15:05.587] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
-[12Nov2024 23:15:05.601] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Nov2024 23:15:06.078] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
-[12Nov2024 23:15:06.571] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
-[12Nov2024 23:15:07.074] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
-[12Nov2024 23:15:07.592] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 49%
-[12Nov2024 23:15:08.084] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
-[12Nov2024 23:15:08.590] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
-[12Nov2024 23:15:09.078] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 56%
-[12Nov2024 23:15:09.572] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
-[12Nov2024 23:15:10.083] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
-[12Nov2024 23:15:10.576] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 64%
-[12Nov2024 23:15:11.087] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
-[12Nov2024 23:15:11.571] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[12Nov2024 23:15:12.074] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
-[12Nov2024 23:15:12.580] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
-[12Nov2024 23:15:13.073] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[12Nov2024 23:15:13.583] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
-[12Nov2024 23:15:14.073] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[12Nov2024 23:15:14.575] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[12Nov2024 23:15:15.072] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[12Nov2024 23:15:15.384] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Nov2024 23:15:15.574] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
-[12Nov2024 23:15:16.070] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
-[12Nov2024 23:15:16.571] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
-[12Nov2024 23:15:17.081] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 26012 ms
-[12Nov2024 23:15:17.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (39.144s)! For help, type "help"
-[12Nov2024 23:15:17.100] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[12Nov2024 23:15:17.103] [Server thread/INFO] [thutessentials/]: Server Started
-[12Nov2024 23:15:17.126] [Server thread/INFO] [thutessentials/]: Starting Loading Land
-[12Nov2024 23:15:17.128] [Server thread/INFO] [thutessentials/]: Finished Loading Land and Teams
-[12Nov2024 23:15:17.190] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 9
-[12Nov2024 23:15:17.191] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 19 22
-[12Nov2024 23:15:17.191] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
-[12Nov2024 23:15:17.194] [Server thread/INFO] [minecolonies/]: Finished discovering food 106 126
-[12Nov2024 23:15:17.196] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 225
-[12Nov2024 23:15:17.197] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 222
-[12Nov2024 23:15:17.198] [Server thread/INFO] [minecolonies/]: Finished discovering lucky oreBlocks 6
-[12Nov2024 23:15:17.198] [Server thread/INFO] [minecolonies/]: Finished discovering recruitment costs
-[12Nov2024 23:15:17.198] [Server thread/INFO] [minecolonies/]: Finished discovering diseases
-[12Nov2024 23:15:23.690] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[12Nov2024 23:15:23.702] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f0c21e1
-[12Nov2024 23:15:23.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dos[/188.186.208.18:28607] logged in with entity id 337 at (0.5, 95.0, -24.5)
-[12Nov2024 23:15:23.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_Dos joined the game
-[12Nov2024 23:15:23.921] [Server thread/INFO] [structurize/]: New Server UUID 1adb8f1b-3f2b-4d67-8781-446f2f7c515b
-[12Nov2024 23:15:23.927] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
-[12Nov2024 23:15:33.692] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@72c792fe
-[12Nov2024 23:15:33.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hezare0[/176.59.192.244:61325] logged in with entity id 516 at (-1.5, 95.0, -22.5)
-[12Nov2024 23:15:33.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hezare0 joined the game
-[12Nov2024 23:15:33.772] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
-[12Nov2024 23:15:40.734] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39a31ed5
-[12Nov2024 23:15:40.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VadimThomas[/5.3.142.22:51329] logged in with entity id 548 at (7.5, 94.0, -39.5)
-[12Nov2024 23:15:40.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadimThomas joined the game
-[12Nov2024 23:15:40.839] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
-[12Nov2024 23:15:40.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadimThomas lost connection: Disconnected
-[12Nov2024 23:15:40.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadimThomas left the game
-[12Nov2024 23:15:40.868] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[12Nov2024 23:16:03.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made The_Dos a server operator
-[12Nov2024 23:16:09.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [The_Dos: The difficulty has been set to Normal]
-[12Nov2024 23:16:49.783] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@653fcf55
-[12Nov2024 23:16:49.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DIXAI[/176.28.65.163:10139] logged in with entity id 832 at (-5.5, 95.0, -21.5)
-[12Nov2024 23:16:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIXAI joined the game
-[12Nov2024 23:16:49.868] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[13Nov2024 00:16:15.951] [main/INFO] [thutessentials/]: Loaded thutessentials config file thutessentials/thutessentials-common.toml
+[13Nov2024 00:16:15.954] [main/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[13Nov2024 00:16:15.955] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[13Nov2024 00:16:15.958] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[13Nov2024 00:16:16.346] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Nov2024 00:16:16.472] [main/INFO] [journeymap/]: Initializing Packet Registries
+[13Nov2024 00:16:16.518] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
+[13Nov2024 00:16:16.934] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.5
+[13Nov2024 00:16:16.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[13Nov2024 00:16:17.404] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Nov2024 00:16:17.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[13Nov2024 00:16:18.019] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23131!/assets/.mcassetsroot' uses unexpected schema
+[13Nov2024 00:16:18.020] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23131!/data/.mcassetsroot' uses unexpected schema
+[13Nov2024 00:16:19.716] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[13Nov2024 00:16:20.092] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1592 advancements
+[13Nov2024 00:16:20.099] [main/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
+[13Nov2024 00:16:20.104] [main/INFO] [minecolonies/]: Loaded 130 recipes for 14 crafters
+[13Nov2024 00:16:20.104] [main/INFO] [minecolonies/]: Beginning load of research for University.
+[13Nov2024 00:16:20.131] [main/INFO] [minecolonies/]: Loaded 201 recipes for 4 research branches
+[13Nov2024 00:16:20.133] [main/INFO] [minecolonies/]: Loading quests from data
+[13Nov2024 00:16:20.138] [main/INFO] [minecolonies/]: Finished loading quests from data
+[13Nov2024 00:16:20.142] [main/WARN] [minecolonies/]: Read 1362 items with their nbt keys for compatibility.
+[13Nov2024 00:16:20.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[13Nov2024 00:16:20.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Nov2024 00:16:20.551] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:281) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:324) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:189) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:90) [server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+[13Nov2024 00:16:20.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Nov2024 00:16:20.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Nov2024 00:16:20.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Nov2024 00:16:20.680] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Nov2024 00:16:20.764] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Nov2024 00:16:20.764] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Nov2024 00:16:20.764] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Nov2024 00:16:20.764] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Nov2024 00:16:20.787] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[13Nov2024 00:16:20.788] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[13Nov2024 00:16:20.788] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[13Nov2024 00:16:20.910] [Server thread/INFO] [spark/]: Starting background profiler...
+[13Nov2024 00:16:21.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Nov2024 00:16:21.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Nov2024 00:16:21.610] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:22.304] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:22.688] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:22.900] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:24.201] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:24.891] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:25.345] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:26.834] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:26.855] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:27.746] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:27.754] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:28.027] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:28.410] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:28.826] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:29.224] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:29.363] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:29.572] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:30.702] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:30.803] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:31.704] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:31.885] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:32.273] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.273] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.274] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.274] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.275] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.275] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.275] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.275] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.276] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.277] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.278] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.279] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.279] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.280] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.280] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.282] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.283] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.285] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.287] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.289] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.291] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.292] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.484] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Nov2024 00:16:32.712] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:32.987] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[13Nov2024 00:16:33.168] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:33.483] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[13Nov2024 00:16:33.758] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Nov2024 00:16:33.983] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[13Nov2024 00:16:34.484] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
+[13Nov2024 00:16:34.490] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13008 ms
+[13Nov2024 00:16:34.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.715s)! For help, type "help"
+[13Nov2024 00:16:34.517] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Nov2024 00:16:34.534] [Server thread/INFO] [thutessentials/]: Server Started
+[13Nov2024 00:16:34.557] [Server thread/INFO] [thutessentials/]: Starting Loading Land
+[13Nov2024 00:16:34.567] [Server thread/INFO] [thutessentials/]: Finished Loading Land and Teams
+[13Nov2024 00:16:34.606] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 9
+[13Nov2024 00:16:34.607] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 19 22
+[13Nov2024 00:16:34.607] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
+[13Nov2024 00:16:34.610] [Server thread/INFO] [minecolonies/]: Finished discovering food 106 126
+[13Nov2024 00:16:34.612] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 225
+[13Nov2024 00:16:34.613] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 222
+[13Nov2024 00:16:34.613] [Server thread/INFO] [minecolonies/]: Finished discovering lucky oreBlocks 6
+[13Nov2024 00:16:34.613] [Server thread/INFO] [minecolonies/]: Finished discovering recruitment costs
+[13Nov2024 00:16:34.614] [Server thread/INFO] [minecolonies/]: Finished discovering diseases
+[13Nov2024 00:16:37.549] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[13Nov2024 00:16:37.591] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d1512a5
+[13Nov2024 00:16:37.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dos[/188.186.208.18:29113] logged in with entity id 149 at (1669.357205273423, 69.0, -633.9318869672218)
+[13Nov2024 00:16:37.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_Dos joined the game
+[13Nov2024 00:16:37.796] [Server thread/INFO] [structurize/]: New Server UUID 74837f05-6167-4bf8-9017-a34e906806de
+[13Nov2024 00:16:37.802] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[13Nov2024 00:16:40.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[13Nov2024 00:16:42.366] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1cf85d3b
+[13Nov2024 00:16:42.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VadimThomas[/5.3.142.22:51534] logged in with entity id 371 at (211.8571915358467, 65.76863634655165, 217.24611165875493)
+[13Nov2024 00:16:42.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadimThomas joined the game
+[13Nov2024 00:16:42.442] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[13Nov2024 00:16:44.650] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2361bf4a
+[13Nov2024 00:16:44.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hezare0[/176.59.192.244:61818] logged in with entity id 508 at (123.08764502636916, 94.0, -259.8838844493069)
+[13Nov2024 00:16:44.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hezare0 joined the game
+[13Nov2024 00:16:44.687] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[13Nov2024 00:16:44.692] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7e1e2664
+[13Nov2024 00:16:44.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DIXAI[/176.28.65.163:12354] logged in with entity id 509 at (341.8005635776468, -10.0, 776.0631530858495)
+[13Nov2024 00:16:44.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIXAI joined the game
+[13Nov2024 00:16:44.713] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[13Nov2024 00:18:14.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIXAI has made the advancement [Not Today, Thank You]
+[13Nov2024 00:18:17.868] [Server thread/INFO] [minecolonies/]: New Colony Id: 1 by Hezare0
+[13Nov2024 00:19:56.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hezare0 has made the advancement [Sweet Dreams]
+[13Nov2024 00:21:06.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadimThomas has made the advancement [Sweet Dreams]
+[13Nov2024 00:21:37.193] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
+[13Nov2024 00:22:46.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadimThomas has made the advancement [A Seedy Place]
+[13Nov2024 00:22:55.819] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[13Nov2024 00:23:38.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_Dos has made the advancement [Not Today, Thank You]
+[13Nov2024 00:24:08.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DIXAI lost connection: Disconnected
+[13Nov2024 00:24:08.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIXAI left the game
+[13Nov2024 00:24:29.997] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4af18c4c
+[13Nov2024 00:24:30.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DIXAI[/176.28.65.163:12671] logged in with entity id 6474 at (337.60841922238507, -53.57472587780277, 770.2594421733131)
+[13Nov2024 00:24:30.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIXAI joined the game
+[13Nov2024 00:24:30.020] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[13Nov2024 00:24:32.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[13Nov2024 00:25:34.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIXAI has made the advancement [Hot Stuff]
+[13Nov2024 00:25:54.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [The_Dos: Set the time to 1000]
+[13Nov2024 00:26:57.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIXAI has made the advancement [Ice Bucket Challenge]
+[13Nov2024 00:28:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_Dos has made the advancement [Diamonds!]
+[13Nov2024 00:28:56.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hezare0> ac
+[13Nov2024 00:29:08.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2212ms or 44 ticks behind
+[13Nov2024 00:29:08.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hezare0 moved too quickly! 4.338877946404111,-1.1661092609382138,9.14064543926105
+[13Nov2024 00:29:48.772] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecolonies:blockhutfield}[facing=south,half=upper] but failed at location BlockPos{x=399, y=78, z=1354}
+[13Nov2024 00:30:47.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIXAI has made the advancement [Crops of the Wild]
+[13Nov2024 00:31:53.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_Dos has made the advancement [Crops of the Wild]
+[13Nov2024 00:34:12.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DIXAI lost connection: Disconnected
+[13Nov2024 00:34:12.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIXAI left the game
+[13Nov2024 00:34:16.748] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7fc7b79c
+[13Nov2024 00:34:16.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DIXAI[/176.28.65.163:12993] logged in with entity id 14038 at (327.3884377007141, 61.0, 1192.8857437815689)
+[13Nov2024 00:34:16.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIXAI joined the game
+[13Nov2024 00:34:16.806] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[13Nov2024 00:34:44.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadimThomas has made the advancement [Crops of the Wild]
+[13Nov2024 00:37:50.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [The_Dos: Set the time to 1000]
+[13Nov2024 00:38:07.063] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/10519, l='ServerLevel[world]', x=307.48, y=65.00, z=1175.30] died, message: 'Nitwit was slain by Zombie'
+[13Nov2024 00:38:36.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
+[13Nov2024 00:39:14.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [The_Dos: Teleported The_Dos to DIXAI]
+[13Nov2024 00:39:32.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadimThomas has made the advancement [Isn't It Iron Pick]
+[13Nov2024 00:40:48.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIXAI has made the advancement [We Need to Go Deeper]
+[13Nov2024 00:40:48.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2625ms or 52 ticks behind
+[13Nov2024 00:40:58.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadimThomas has made the advancement [We Need to Go Deeper]
+[13Nov2024 00:40:59.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadimThomas moved too quickly! -286.0979041550119,-16.5,-1096.241107126667
+[13Nov2024 00:40:59.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadimThomas moved too quickly! -286.0979041550119,-16.5,-1096.241107126667
+[13Nov2024 00:41:59.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hezare0 has made the advancement [Not Today, Thank You]
+[13Nov2024 00:43:38.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[13Nov2024 00:44:02.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_Dos has made the advancement [Suit Up]
+[13Nov2024 00:46:46.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hezare0 has reached the goal [Build a Builder Building]
+[13Nov2024 00:47:44.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIXAI has made the advancement [MineColonies]
+[13Nov2024 00:48:20.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_Dos has made the advancement [Sweet Dreams]
+[13Nov2024 00:51:27.175] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[13Nov2024 00:51:54.098] [IO-Worker-30/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[IO-Worker-30,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+[13Nov2024 00:51:43.910] [IO-Worker-27/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[IO-Worker-27,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+	at java.util.HashMap.newNode(HashMap.java:1901) ~[?:?]
+	at java.util.HashMap.putVal(HashMap.java:629) ~[?:?]
+	at java.util.HashMap.put(HashMap.java:610) ~[?:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:44) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:279) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:225) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.NbtIo.m_128928_(NbtIo.java:221) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63706_(RegionFileStorage.java:57) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223494_(IOWorker.java:186) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker$$Lambda$8796/0x00007f273d162b70.get(Unknown Source) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223468_(IOWorker.java:236) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker$$Lambda$8800/0x00007f273d1636b8.run(Unknown Source) ~[?:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+[13Nov2024 00:51:54.103] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[Worker-Main-1,5,main]
+java.lang.OutOfMemoryError: Java heap space
+[13Nov2024 00:51:53.778] [IO-Worker-28/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[IO-Worker-28,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+[13Nov2024 00:51:33.884] [IO-Worker-26/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[IO-Worker-26,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+	at java.io.DataInputStream.readUTF(DataInputStream.java:654) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:558) ~[?:?]
+	at net.minecraft.nbt.StringTag$1.m_7300_(StringTag.java:15) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.StringTag$1.m_7300_(StringTag.java:12) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:279) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:225) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.nbt.NbtIo.m_128928_(NbtIo.java:221) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63706_(RegionFileStorage.java:57) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223494_(IOWorker.java:186) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker$$Lambda$8796/0x00007f273d162b70.get(Unknown Source) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223468_(IOWorker.java:236) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker$$Lambda$8800/0x00007f273d1636b8.run(Unknown Source) ~[?:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+[13Nov2024 00:52:06.811] [IO-Worker-32/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[IO-Worker-32,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+[13Nov2024 00:52:12.899] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.51 seconds (should be max 0.05)
+[13Nov2024 00:52:13.656] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[13Nov2024 00:52:13.656] [IO-Worker-31/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[IO-Worker-31,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+[13Nov2024 00:52:15.608] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[Worker-Main-1,5,main]
+java.lang.OutOfMemoryError: Java heap space
+[13Nov2024 00:52:32.653] [IO-Worker-33/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[IO-Worker-33,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+[13Nov2024 00:53:00.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 109663ms or 2193 ticks behind
+[13Nov2024 00:53:01.108] [Worker-Main-1/WARN] [net.minecraft.Util/]: Worker-Main-1 died
+java.lang.OutOfMemoryError: Java heap space
+[13Nov2024 00:53:01.109] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[Worker-Main-1,5,main]
+java.lang.OutOfMemoryError: Java heap space
+[13Nov2024 00:53:01.556] [IO-Worker-34/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[IO-Worker-34,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+[13Nov2024 00:53:06.894] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[13Nov2024 00:53:15.105] [IO-Worker-36/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[IO-Worker-36,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+[13Nov2024 00:53:53.052] [IO-Worker-25/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[IO-Worker-25,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+[13Nov2024 00:53:53.051] [Netty Epoll Server IO #2/WARN] [io.netty.channel.DefaultChannelPipeline/]: An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.ChannelPipelineException: net.minecraft.network.PacketDecoder.handlerRemoved() has thrown an exception.
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved0(DefaultChannelPipeline.java:640) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.DefaultChannelPipeline.destroyDown(DefaultChannelPipeline.java:876) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.DefaultChannelPipeline.destroyUp(DefaultChannelPipeline.java:844) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.DefaultChannelPipeline.destroy(DefaultChannelPipeline.java:836) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.DefaultChannelPipeline.access$700(DefaultChannelPipeline.java:46) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelUnregistered(DefaultChannelPipeline.java:1392) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelUnregistered(AbstractChannelHandlerContext.java:198) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelUnregistered(AbstractChannelHandlerContext.java:184) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelUnregistered(DefaultChannelPipeline.java:821) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:821) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:391) [netty-transport-classes-epoll-4.1.77.Final.jar%2385!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0, decrement: 1
+	at io.netty.util.internal.ReferenceCountUpdater.toLiveRealRefCnt(ReferenceCountUpdater.java:83) ~[netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.internal.ReferenceCountUpdater.release(ReferenceCountUpdater.java:147) ~[netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.buffer.AbstractReferenceCountedByteBuf.release(AbstractReferenceCountedByteBuf.java:101) ~[netty-buffer-4.1.77.Final.jar%2379!/:4.1.77.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.handlerRemoved(ByteToMessageDecoder.java:258) ~[netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.callHandlerRemoved(AbstractChannelHandlerContext.java:946) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved0(DefaultChannelPipeline.java:637) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	... 16 more
+[13Nov2024 00:53:55.462] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Exception ticking world
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:870) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[13Nov2024 00:53:55.859] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 871d0f97-78bf-4177-9033-c0aa4d1f2ada
+[13Nov2024 00:53:55.860] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /root/MinecraftServerForge1.19.2-43.4.2/./crash-reports/crash-2024-11-13_00.53.55-server.txt
+[13Nov2024 00:53:55.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Nov2024 00:53:56.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Nov2024 00:54:00.509] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[13Nov2024 00:54:04.400] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dos lost connection: Disconnected
+[13Nov2024 00:54:04.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_Dos left the game
+[13Nov2024 00:54:04.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hezare0 lost connection: Disconnected
+[13Nov2024 00:54:04.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hezare0 left the game
+[13Nov2024 00:54:05.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
