@@ -1491,3 +1491,1128 @@ java.io.IOException: Bad file descriptor
 [13:04:21] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [13:04:21] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
 [13:04:21] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved
+2024-11-13 14:42:46,940 main WARN Advanced terminal features are not available in this environment
+[14:42:47] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853,  -Xms2G -Xmx4G]
+[14:42:47] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 5.15.0-113-generic
+[14:42:47] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[14:42:47] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[14:42:47] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[14:42:47] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[14:42:47] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[14:42:47] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[14:42:49] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14:42:49] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [ -Xms2G -Xmx4G]
+[14:42:49] [main/WARN] [mixin/]: Reference map 'tlc.refmap.json' for tlc.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:42:52] [main/INFO] [minecraft/DataFixers]: Building unoptimized datafixer
+[14:42:53] [modloading-worker-0/INFO] [thutessentials/]: []
+[14:42:53] [modloading-worker-0/INFO] [thutessentials/]: []
+[14:42:53] [modloading-worker-0/INFO] [thutessentials/]: []
+[14:42:53] [modloading-worker-0/INFO] [thutessentials/]: {}
+[14:42:53] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[14:42:53] [modloading-worker-0/INFO] [thutessentials/]: Registering Defuzzer!
+[14:42:53] [modloading-worker-0/INFO] [ne.mi.co.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[14:42:53] [modloading-worker-0/INFO] [ne.mi.co.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Warped Netherlands
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Stalactite Caves
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Space Wars
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Shire
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Desert Oasis
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Pagoda
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Minecolonies Original
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Nordic Spruce
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Spruce
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Oak
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Dark Oak
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Birch
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Lost Mesa City
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Jungle Treehouse
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Incan
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Fortress
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Dark Oak Treehouse
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Colonial
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Cavern
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Caledonia
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Birch
+[14:42:53] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Savanna
+[14:42:53] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
+[14:42:53] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
+[14:42:53] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
+[14:42:54] [main/INFO] [thutessentials/]: Loaded thutessentials config file thutessentials/thutessentials-common.toml
+[14:42:54] [main/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[14:42:54] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[14:42:54] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14:42:55] [main/INFO] [journeymap/]: Initializing Packet Registries
+[14:42:55] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
+[14:42:55] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.5
+[14:42:55] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[14:42:56] [main/INFO] [mojang/YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:42:56] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[14:42:56] [main/WARN] [minecraft/VanillaPackResources]: Assets URL 'union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23131!/assets/.mcassetsroot' uses unexpected schema
+[14:42:56] [main/WARN] [minecraft/VanillaPackResources]: Assets URL 'union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23131!/data/.mcassetsroot' uses unexpected schema
+[14:42:58] [main/INFO] [minecraft/RecipeManager]: Loaded 11 recipes
+[14:42:58] [main/INFO] [minecraft/AdvancementList]: Loaded 1592 advancements
+[14:42:58] [main/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
+[14:42:58] [main/INFO] [minecolonies/]: Loaded 130 recipes for 14 crafters
+[14:42:58] [main/INFO] [minecolonies/]: Beginning load of research for University.
+[14:42:58] [main/INFO] [minecolonies/]: Loaded 201 recipes for 4 research branches
+[14:42:58] [main/INFO] [minecolonies/]: Loading quests from data
+[14:42:58] [main/INFO] [minecolonies/]: Finished loading quests from data
+[14:42:58] [main/WARN] [minecolonies/]: Read 1362 items with their nbt keys for compatibility.
+[14:42:58] [Server thread/INFO] [minecraft/DedicatedServer]: Starting minecraft server version 1.19.2
+[14:42:58] [Server thread/INFO] [minecraft/DedicatedServer]: Loading properties
+[14:42:58] [Server thread/INFO] [minecraft/DedicatedServer]: Default game type: SURVIVAL
+[14:42:58] [Server thread/INFO] [minecraft/MinecraftServer]: Generating keypair
+[14:42:58] [Server console handler/ERROR] [minecraft/DedicatedServer]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?] {}
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?] {}
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?] {}
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:281) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:324) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:189) ~[?:?] {}
+	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?] {}
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?] {}
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?] {}
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?] {}
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:90) [server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+[14:42:59] [Server thread/INFO] [minecraft/DedicatedServer]: Starting Minecraft server on *:25565
+[14:42:59] [Server thread/INFO] [minecraft/ServerConnectionListener]: Using epoll channel type
+[14:42:59] [Server thread/WARN] [minecraft/DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:42:59] [Server thread/WARN] [minecraft/DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[14:42:59] [Server thread/WARN] [minecraft/DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:42:59] [Server thread/WARN] [minecraft/DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:42:59] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[14:42:59] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[14:42:59] [Server thread/INFO] [spark/]: Starting background profiler...
+[14:42:59] [Server thread/INFO] [minecraft/DedicatedServer]: Preparing level "world"
+[14:42:59] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[14:43:10] [Netty Epoll Server IO #1/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-2/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:10] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[14:43:11] [Worker-Main-2/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 4%
+[14:43:11] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 55%
+[14:43:12] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 86%
+[14:43:12] [Server thread/INFO] [minecraft/LoggerChunkProgressListener]: Time elapsed: 12656 ms
+[14:43:12] [Server thread/INFO] [minecraft/DedicatedServer]: Done (13.428s)! For help, type "help"
+[14:43:12] [Server thread/INFO] [ne.mi.se.pe.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14:43:12] [Server thread/INFO] [thutessentials/]: Server Started
+[14:43:12] [Server thread/INFO] [thutessentials/]: Starting Loading Land
+[14:43:12] [Server thread/INFO] [thutessentials/]: Finished Loading Land and Teams
+[14:43:12] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 9
+[14:43:12] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 19 22
+[14:43:12] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
+[14:43:12] [Server thread/INFO] [minecolonies/]: Finished discovering food 106 126
+[14:43:12] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 225
+[14:43:12] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 222
+[14:43:12] [Server thread/INFO] [minecolonies/]: Finished discovering lucky oreBlocks 6
+[14:43:12] [Server thread/INFO] [minecolonies/]: Finished discovering recruitment costs
+[14:43:12] [Server thread/INFO] [minecolonies/]: Finished discovering diseases
+[14:46:58] [Server thread/WARN] [minecraft/SynchedEntityData]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[14:46:58] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@371a7212
+[14:46:58] [Server thread/INFO] [minecraft/PlayerList]: Hezare0[/176.59.192.244:52839] logged in with entity id 170 at (46.28237539571212, 84.0, -204.09532323766243)
+[14:46:58] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 joined the game
+[14:46:58] [Server thread/INFO] [structurize/]: New Server UUID f703d5d5-d54b-4b48-95f7-0d589d9c586f
+[14:46:58] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[14:47:11] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1901b482
+[14:47:11] [Server thread/INFO] [minecraft/PlayerList]: The_Dos[/188.186.208.18:29010] logged in with entity id 323 at (1678.9266532027505, 68.0, -633.6484016618825)
+[14:47:11] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos joined the game
+[14:47:11] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[14:48:12] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
+[14:50:03] [Server thread/INFO] [minecraft/MinecraftServer]: [The_Dos: Set the time to 1000]
+[14:51:00] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [Sneak 100]
+[15:11:05] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [Hot Stuff]
+[15:13:07] [Server thread/INFO] [minecraft/MinecraftServer]: [The_Dos: Made Hezare0 a server operator]
+[15:19:11] [Server thread/INFO] [minecraft/MinecraftServer]: [Hezare0: Set the weather to clear]
+[15:25:00] [Server thread/INFO] [minecraft/MinecraftServer]: [Hezare0: Set the weather to clear]
+[15:30:04] [Server thread/INFO] [minecraft/MinecraftServer]: [Hezare0: Set the weather to clear]
+[15:43:41] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@230dde3f
+[15:43:41] [Server thread/INFO] [minecraft/PlayerList]: VadimThomas[/176.59.192.241:42270] logged in with entity id 20273 at (222.06711948173276, 63.0, 212.5978563653785)
+[15:43:41] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas joined the game
+[15:43:41] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[15:45:09] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas has made the advancement [Fishy Business]
+[15:46:41] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <Hezare0> zzzzzzzzzzzzz
+[15:53:56] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: VadimThomas lost connection: Disconnected
+[15:53:56] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas left the game
+[16:12:15] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [A Seedy Place]
+[16:14:03] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [Who is Cutting Onions?]
+[16:14:08] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [Hot Stuff]
+[16:16:46] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [We Need to Go Deeper]
+[16:17:36] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Hezare0 lost connection: Timed out
+[16:17:36] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 left the game
+[16:17:36] [Server thread/WARN] [minecraft/Connection]: handleDisconnection() called twice
+[16:17:41] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@a31d352
+[16:17:41] [Server thread/INFO] [minecraft/PlayerList]: Hezare0[/176.59.192.244:37531] logged in with entity id 33535 at (47.5, 112.0, -410.63595000923465)
+[16:17:41] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 joined the game
+[16:17:41] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[16:19:23] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [Ice Bucket Challenge]
+[16:19:24] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: The_Dos lost connection: Disconnected
+[16:19:24] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos left the game
+[16:19:31] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b9a8890
+[16:19:31] [Server thread/INFO] [minecraft/PlayerList]: The_Dos[/188.186.208.18:28741] logged in with entity id 34469 at (1679.1153766884788, 64.0, -375.3717075591827)
+[16:19:31] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos joined the game
+[16:19:31] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[16:26:46] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [The Centerpiece]
+[16:36:53] [Server thread/WARN] [minecolonies/]: Unable to place TileEntity
+[16:36:54] [Server thread/WARN] [minecolonies/]: Unable to place TileEntity
+[16:37:01] [Server thread/WARN] [minecolonies/]: Unable to place TileEntity
+[16:37:02] [Server thread/WARN] [minecolonies/]: Unable to place TileEntity
+[16:37:11] [Server thread/WARN] [minecolonies/]: Unable to place TileEntity
+[16:37:12] [Server thread/WARN] [minecolonies/]: Unable to place TileEntity
+[16:37:38] [Server thread/WARN] [minecolonies/]: Unable to place TileEntity
+[16:37:44] [Server thread/WARN] [minecolonies/]: Unable to place TileEntity
+[16:37:48] [Server thread/WARN] [minecolonies/]: Unable to place TileEntity
+[16:37:49] [Server thread/WARN] [minecolonies/]: Unable to place TileEntity
+[16:37:50] [Server thread/WARN] [minecolonies/]: Unable to place TileEntity
+[16:38:59] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has reached the goal [Level Up!]
+[16:43:13] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [We Need to Go Deeper]
+[16:43:31] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos fell from a high place
+[16:43:41] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [Never Craft Again]
+[16:46:46] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [The Path to Better Gear]
+[16:48:12] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 1 recipes!
+[16:48:41] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[16:51:44] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: The_Dos moved too quickly! 1921.965258743436,22.5,-675.3802362855997
+[16:56:56] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [Defence is the Best Defence]
+[17:00:41] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[17:01:37] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=125, y=96, z=-285} BlockPos{x=123, y=95, z=-283}
+[17:03:56] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [Ice Bucket Challenge]
+[17:05:00] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: The_Dos lost connection: Disconnected
+[17:05:00] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos left the game
+[17:05:32] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@399a78f9
+[17:05:32] [Server thread/INFO] [minecraft/PlayerList]: The_Dos[/188.186.208.18:28275] logged in with entity id 51568 at (1341.488317978856, -52.0, -704.6234847052557)
+[17:05:32] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos joined the game
+[17:05:32] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[17:05:40] [Server thread/INFO] [minecraft/MinecraftServer]: [The_Dos: Saved the game]
+[17:08:57] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [Enchanter]
+[17:16:55] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: The_Dos lost connection: Disconnected
+[17:16:55] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos left the game
+[17:17:07] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@461b1d48
+[17:17:07] [Server thread/INFO] [minecraft/PlayerList]: The_Dos[/188.186.208.18:28546] logged in with entity id 57164 at (1605.699999988079, 99.0, 2180.300000011921)
+[17:17:07] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos joined the game
+[17:17:07] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[17:20:21] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Hezare0 lost connection: Disconnected
+[17:20:21] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 left the game
+[17:26:23] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57b08ab0
+[17:26:23] [Server thread/INFO] [minecraft/PlayerList]: Hezare0[/176.59.192.244:18432] logged in with entity id 59641 at (123.47440676716985, 93.0, -278.69999998807907)
+[17:26:23] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 joined the game
+[17:26:23] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[17:32:32] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@50d58b9b
+[17:32:32] [Server thread/INFO] [minecraft/PlayerList]: VadimThomas[/5.3.142.22:62299] logged in with entity id 62032 at (1686.861376336769, 69.0, -641.3048569434529)
+[17:32:32] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas joined the game
+[17:32:32] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[17:38:10] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas has made the advancement [Acquire Hardware]
+[17:44:34] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [Hunt and Gather]
+[11681.727s][warning][gc,alloc] Worker-Main-18: Retried waiting for GCLocker too often allocating 65539 words
+[17:57:27] [Worker-Main-18/ERROR] [minecraft/Util]: Caught exception in thread Thread[Worker-Main-18,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.clone(Long2ObjectOpenHashMap.java:1372) ~[fastutil-8.5.6.jar%2389!/:?] {}
+	at net.minecraft.world.level.lighting.SkyLightSectionStorage$SkyDataLayerStorageMap.m_5972_(SkyLightSectionStorage.java:337) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.lighting.SkyLightSectionStorage$SkyDataLayerStorageMap.m_5972_(SkyLightSectionStorage.java:317) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.lighting.LayerLightSectionStorage.m_75790_(LayerLightSectionStorage.java:381) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.lighting.LayerLightEngine.m_5738_(LayerLightEngine.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.lighting.LevelLightEngine.m_5738_(LevelLightEngine.java:65) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.server.level.ThreadedLevelLightEngine.m_9366_(ThreadedLevelLightEngine.java:188) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.server.level.ThreadedLevelLightEngine.m_9327_(ThreadedLevelLightEngine.java:107) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.server.level.ThreadedLevelLightEngine$$Lambda$8850/0x00007f8875189168.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter$$Lambda$8864/0x00007f887518b2e0.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) [?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?] {}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?] {}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?] {}
+[18:00:07] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[18:00:07] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[18:05:04] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[18:05:20] [Server Watchdog/ERROR] [minecraft/ServerWatchdog]: A single server tick took 60.00 seconds (should be max 0.05)
+[18:05:20] [Server Watchdog/ERROR] [minecraft/ServerWatchdog]: Considering it to be crashed, server will forcibly shutdown.
+[18:05:20] [Server Watchdog/FATAL] [ne.mi.co.ForgeMod/]: Preparing crash report with UUID d64a5912-5cd8-477f-aec3-6795ae2995e7
+Crash report:
+---- Minecraft Crash Report ----
+// Uh... Did I do that?
+
+Time: 2024-11-13 18:05:20
+Description: Watching Server
+
+java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.00 seconds (should be max 0.05)
+	at jdk.internal.misc.Unsafe.park(Native Method) ~[?:?] {}
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252) ~[?:?] {}
+	at net.minecraft.util.thread.BlockableEventLoop.m_5667_(BlockableEventLoop.java:152) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:142) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:130) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.level.Level.m_6522_(Level.java:179) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,re:mixin}
+	at net.minecraft.world.level.Level.m_6325_(Level.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.level.Level.m_8055_(Level.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.level.portal.PortalForcer.m_192989_(PortalForcer.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.level.portal.PortalForcer$$Lambda$11350/0x00007f8875441800.test(Unknown Source) ~[?:?] {}
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178) ~[?:?] {}
+	at java.util.stream.SortedOps$RefSortingSink.end(SortedOps.java:400) ~[?:?] {}
+	at java.util.stream.Sink$ChainedReference.end(Sink.java:258) ~[?:?] {}
+	at java.util.stream.Sink$ChainedReference.end(Sink.java:258) ~[?:?] {}
+	at java.util.stream.Sink$ChainedReference.end(Sink.java:258) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:528) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647) ~[?:?] {}
+	at net.minecraft.world.level.portal.PortalForcer.m_192985_(PortalForcer.java:56) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.entity.Entity.m_183318_(Entity.java:2384) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.Entity.m_7937_(Entity.java:2349) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.Entity$$Lambda$11662/0x00007f8875496f58.apply(Unknown Source) ~[?:?] {}
+	at net.minecraftforge.common.util.ITeleporter.getPortalInfo(ITeleporter.java:69) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraft.world.entity.Entity.changeDimension(Entity.java:2302) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.Entity.m_5489_(Entity.java:2293) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.Entity.m_20157_(Entity.java:1925) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.Entity.m_6075_(Entity.java:434) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:324) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.entity.Mob.m_6075_(Mob.java:252) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:417) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:318) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.entity.monster.Zombie.m_8119_(Zombie.java:209) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:thutessentials.mixins.json:SeededServerWorld,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel$$Lambda$9779/0x00007f88752a19d8.accept(Unknown Source) ~[?:?] {}
+	at net.minecraft.world.level.Level.m_46653_(Level.java:457) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:323) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:thutessentials.mixins.json:SeededServerWorld,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel$$Lambda$9741/0x00007f8875296f80.accept(Unknown Source) ~[?:?] {}
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:303) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:thutessentials.mixins.json:SeededServerWorld,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:866) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer$$Lambda$8406/0x00007f887506c320.run(Unknown Source) ~[?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Suspected Mods: NONE
+Stacktrace:
+	at jdk.internal.misc.Unsafe.park(Native Method) ~[?:?] {}
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252) ~[?:?] {}
+	at net.minecraft.util.thread.BlockableEventLoop.m_5667_(BlockableEventLoop.java:152) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:142) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:130) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.level.Level.m_6522_(Level.java:179) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,re:mixin}
+	at net.minecraft.world.level.Level.m_6325_(Level.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.level.Level.m_8055_(Level.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.level.portal.PortalForcer.m_192989_(PortalForcer.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.level.portal.PortalForcer$$Lambda$11350/0x00007f8875441800.test(Unknown Source) ~[?:?] {}
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178) ~[?:?] {}
+	at java.util.stream.SortedOps$RefSortingSink.end(SortedOps.java:400) ~[?:?] {}
+	at java.util.stream.Sink$ChainedReference.end(Sink.java:258) ~[?:?] {}
+	at java.util.stream.Sink$ChainedReference.end(Sink.java:258) ~[?:?] {}
+	at java.util.stream.Sink$ChainedReference.end(Sink.java:258) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:528) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647) ~[?:?] {}
+	at net.minecraft.world.level.portal.PortalForcer.m_192985_(PortalForcer.java:56) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.entity.Entity.m_183318_(Entity.java:2384) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.Entity.m_7937_(Entity.java:2349) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.Entity$$Lambda$11662/0x00007f8875496f58.apply(Unknown Source) ~[?:?] {}
+	at net.minecraftforge.common.util.ITeleporter.getPortalInfo(ITeleporter.java:69) ~[forge-1.19.2-43.4.2-universal.jar%23136!/:?] {re:classloading}
+	at net.minecraft.world.entity.Entity.changeDimension(Entity.java:2302) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.Entity.m_5489_(Entity.java:2293) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.Entity.m_20157_(Entity.java:1925) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.Entity.m_6075_(Entity.java:434) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:324) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.entity.Mob.m_6075_(Mob.java:252) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:417) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:318) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.entity.monster.Zombie.m_8119_(Zombie.java:209) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:thutessentials.mixins.json:SeededServerWorld,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel$$Lambda$9779/0x00007f88752a19d8.accept(Unknown Source) ~[?:?] {}
+	at net.minecraft.world.level.Level.m_46653_(Level.java:457) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:323) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:thutessentials.mixins.json:SeededServerWorld,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel$$Lambda$9741/0x00007f8875296f80.accept(Unknown Source) ~[?:?] {}
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:303) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:thutessentials.mixins.json:SeededServerWorld,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:866) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading,pl:accesstransformer:B}
+-- Thread Dump --
+Details:
+	Threads: "Reference Handler" daemon prio=10 Id=2 RUNNABLE
+	at java.base@17.0.13/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+	at java.base@17.0.13/java.lang.ref.Reference.processPendingReferences(Reference.java:253)
+	at java.base@17.0.13/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:215)
+
+
+"Finalizer" daemon prio=8 Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@4830a49b
+	at java.base@17.0.13/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@4830a49b
+	at java.base@17.0.13/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@17.0.13/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	at java.base@17.0.13/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:172)
+
+
+"Signal Dispatcher" daemon prio=9 Id=4 RUNNABLE
+
+
+"Common-Cleaner" daemon prio=8 Id=11 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@342bd6cc
+	at java.base@17.0.13/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@342bd6cc
+	at java.base@17.0.13/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@17.0.13/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+	at java.base@17.0.13/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:162)
+
+
+"Notification Thread" daemon prio=9 Id=12 RUNNABLE
+
+
+"Thread-0" daemon prio=5 Id=19 TIMED_WAITING
+	at java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+	at java.base@17.0.13/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:376)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:190)
+
+
+"FileSystemWatchService" daemon prio=5 Id=20 RUNNABLE (in native)
+	at java.base@17.0.13/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.13/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+
+
+"Timer hack thread" daemon prio=5 Id=22 TIMED_WAITING
+	at java.base@17.0.13/java.lang.Thread.sleep(Native Method)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.Util$9.run(Util.java:673)
+
+
+"Structurize IO Worker #0" daemon prio=5 Id=27 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@39fb868e
+	at java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@39fb868e
+	at java.base@17.0.13/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.13/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+	at java.base@17.0.13/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1630)
+	at java.base@17.0.13/java.util.concurrent.LinkedBlockingDeque.takeFirst(LinkedBlockingDeque.java:485)
+	at java.base@17.0.13/java.util.concurrent.LinkedBlockingDeque.take(LinkedBlockingDeque.java:673)
+	...
+
+
+"FileSystemWatchService" daemon prio=5 Id=28 RUNNABLE (in native)
+	at java.base@17.0.13/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.13/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+
+
+"Server thread" prio=5 Id=36 TIMED_WAITING on java.lang.String@2930170c
+	at java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@2930170c
+	at java.base@17.0.13/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_5667_(BlockableEventLoop.java:152)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:142)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:130)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.Level.m_6522_(Level.java:179)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.Level.m_6325_(Level.java:174)
+	...
+
+
+"DestroyJavaVM" prio=5 Id=38 RUNNABLE
+
+
+"Netty Epoll Server IO #0" daemon prio=5 Id=40 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:294)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+
+
+"FileSystemWatchService" daemon prio=5 Id=41 RUNNABLE (in native)
+	at java.base@17.0.13/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.13/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+
+
+"HttpClient-2-SelectorManager" daemon prio=5 Id=42 RUNNABLE (in native)
+	at java.base@17.0.13/sun.nio.ch.EPoll.wait(Native Method)
+	at java.base@17.0.13/sun.nio.ch.EPollSelectorImpl.doSelect(EPollSelectorImpl.java:118)
+	at java.base@17.0.13/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+	-  locked sun.nio.ch.Util$2@63abbddd
+	-  locked sun.nio.ch.EPollSelectorImpl@9dc8ad2
+	at java.base@17.0.13/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:141)
+	at platform/java.net.http@17.0.13/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:894)
+
+
+"spark-monitoring-thread" daemon prio=5 Id=44 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6c76b291
+	at java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6c76b291
+	at java.base@17.0.13/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@17.0.13/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1679)
+	at java.base@17.0.13/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+	at java.base@17.0.13/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	at java.base@17.0.13/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+	at java.base@17.0.13/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+	at java.base@17.0.13/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	...
+
+
+"spark-worker-pool-1-thread-1" daemon prio=5 Id=45 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@45d74064
+	at java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@45d74064
+	at java.base@17.0.13/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.13/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+	at java.base@17.0.13/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1630)
+	at java.base@17.0.13/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+	at java.base@17.0.13/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	...
+
+
+"spark-async-sampler-worker-thread" prio=5 Id=47 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@7b2c5856
+	at java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@7b2c5856
+	at java.base@17.0.13/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@17.0.13/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1679)
+	at java.base@17.0.13/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+	at java.base@17.0.13/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	at java.base@17.0.13/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+	at java.base@17.0.13/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+	at java.base@17.0.13/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	...
+
+
+"Netty Epoll Server IO #1" daemon prio=5 Id=50 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:294)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+
+
+"Server Watchdog" daemon prio=5 Id=51 RUNNABLE
+	at java.management@17.0.13/sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at java.management@17.0.13/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:528)
+	at java.management@17.0.13/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:516)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:41)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #2" daemon prio=5 Id=57 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native.java:182)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:290)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:354)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+
+
+"Worker-Main-8" daemon prio=5 Id=58 WAITING on java.util.concurrent.ForkJoinPool@164bd7fb
+	at java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@164bd7fb
+	at java.base@17.0.13/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Worker-Main-9" daemon prio=5 Id=59 TIMED_WAITING on java.util.concurrent.ForkJoinPool@164bd7fb
+	at java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@164bd7fb
+	at java.base@17.0.13/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:410)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1726)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Worker-Main-10" daemon prio=5 Id=60 TIMED_WAITING on java.util.concurrent.ForkJoinPool@164bd7fb
+	at java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@164bd7fb
+	at java.base@17.0.13/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:410)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1726)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Minecolonies Pathfinding Worker #0" daemon prio=5 Id=67 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@4f700d99
+	at java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@4f700d99
+	at java.base@17.0.13/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.13/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+	at java.base@17.0.13/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1630)
+	at java.base@17.0.13/java.util.concurrent.LinkedBlockingDeque.takeFirst(LinkedBlockingDeque.java:485)
+	at java.base@17.0.13/java.util.concurrent.LinkedBlockingDeque.take(LinkedBlockingDeque.java:673)
+	...
+
+
+"Netty Epoll Server IO #3" daemon prio=5 Id=68 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:294)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+
+
+"Worker-Main-18" daemon prio=5 Id=73 WAITING on java.util.concurrent.ForkJoinPool@164bd7fb
+	at java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@164bd7fb
+	at java.base@17.0.13/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.13/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Netty Epoll Server IO #4" daemon prio=5 Id=154 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native.java:182)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:290)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:354)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #5" daemon prio=5 Id=155 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:294)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #6" daemon prio=5 Id=172 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native.java:182)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:290)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:354)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #7" daemon prio=5 Id=207 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:294)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995)
+	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+
+
+"IO-Worker-119" prio=5 Id=371 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@305ba073
+	at java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@305ba073
+	at java.base@17.0.13/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@17.0.13/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+	at java.base@17.0.13/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+	at java.base@17.0.13/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+	at java.base@17.0.13/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+	at java.base@17.0.13/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+
+
+"IO-Worker-120" prio=5 Id=373 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@305ba073
+	at java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@305ba073
+	at java.base@17.0.13/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@17.0.13/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+	at java.base@17.0.13/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+	at java.base@17.0.13/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+	at java.base@17.0.13/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+	at java.base@17.0.13/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+
+
+"Async-profiler Timer" daemon prio=5 Id=376 RUNNABLE (in native)
+
+
+
+Stacktrace:
+	at net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:56) [server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {}
+
+
+-- Performance stats --
+Details:
+	Random tick rate: 3
+	Level stats: ResourceKey[minecraft:dimension / minecraft:overworld]: players: 1, entities: 326,326,230,997,997,0,0 [minecraft:item:57,minecraft:sheep:29,minecraft:chest_minecart:29,minecraft:pig:29,minecraft:zombie:23], block_entities: 2660 [minecraft:sculk_sensor:1867,minecraft:sculk_catalyst:443,minecraft:sculk_shrieker:199,minecraft:mob_spawner:111,minecraft:beehive:17], block_ticks: 662, fluid_ticks: 45, chunk_source: Chunks[S] W: 5508 E: 326,326,230,997,997,0,0,
+ResourceKey[minecraft:dimension / minecraft:the_nether]: players: 2, entities: 110,110,81,625,625,0,0 [minecraft:zombified_piglin:51,minecraft:strider:25,minecraft:magma_cube:11,minecraft:item:9,minecraft:piglin:6], block_entities: 4 [minecraft:mob_spawner:4], block_ticks: 0, fluid_ticks: 6, chunk_source: Chunks[S] W: 2401 E: 110,110,81,625,625,0,0,
+ResourceKey[minecraft:dimension / minecraft:the_end]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Linux (amd64) version 5.15.0-113-generic
+	Java Version: 17.0.13, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 112177080 bytes (106 MiB) / 1025507328 bytes (978 MiB) up to 1025507328 bytes (978 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC-Milan Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): 2.00
+	Number of physical packages: 4
+	Number of physical CPUs: 4
+	Number of logical CPUs: 4
+	Graphics card #0 name: Virtio GPU
+	Graphics card #0 vendor: Red Hat, Inc. (0x1af4)
+	Graphics card #0 VRAM (MB): 8.02
+	Graphics card #0 deviceId: 0x1050
+	Graphics card #0 versionInfo: unknown
+	Memory slot #0 capacity (MB): 4096.00
+	Memory slot #0 clockSpeed (GHz): -0.00
+	Memory slot #0 type: RAM
+	Virtual memory max (MB): 1955.72
+	Virtual memory used (MB): 2119.98
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 0 total; 
+	Server Running: true
+	Player Count: 3 / 20; [ServerPlayer['The_Dos'/57164, l='ServerLevel[world]', x=16.58, y=71.00, z=23.00], ServerPlayer['Hezare0'/59641, l='ServerLevel[world]', x=18.22, y=71.00, z=19.27], ServerPlayer['VadimThomas'/62032, l='ServerLevel[world]', x=1675.61, y=64.00, z=-581.88]]
+	Data Packs: vanilla, mod:farmersdelight, mod:inventorysorter (incompatible), mod:mixinextras (incompatible), mod:gobber2, mod:tlc, mod:architectury (incompatible), mod:towntalk, mod:jei (incompatible), mod:thutessentials (incompatible), mod:carryon (incompatible), mod:domum_ornamentum, mod:structurize, mod:spark (incompatible), mod:forge, mod:blockui, mod:minecolonies (incompatible), mod:multipiston, mod:journeymap (incompatible)
+	World Generation: Experimental
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+	ModLauncher: 10.0.8+10.0.8+main.0ef7e830
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.3.jar eventbus PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.8.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		server-1.19.2-20220805.130853-srg.jar             |Minecraft                     |minecraft                     |1.19.2              |DONE      |Manifest: NOSIGNATURE
+		FarmersDelight-1.19.2-1.2.4.jar                   |Farmer's Delight              |farmersdelight                |1.19.2-1.2.4        |DONE      |Manifest: NOSIGNATURE
+		inventorysorter-1.19.2-21.0.4.jar                 |Simple Inventory Sorter       |inventorysorter               |21.0.4              |DONE      |Manifest: NOSIGNATURE
+		mixinextras-forge-0.2.0-beta.6.jar                |MixinExtras                   |mixinextras                   |0.2.0-beta.6        |DONE      |Manifest: NOSIGNATURE
+		Gobber2-Forge-1.19.2-2.7.32.jar                   |Gobber 2                      |gobber2                       |2.7.32              |DONE      |Manifest: NOSIGNATURE
+		tlc_forge-1.0.2-R-1.19.2.jar                      |The Lost Castle               |tlc                           |1.0.2               |DONE      |Manifest: NOSIGNATURE
+		architectury-6.6.92-forge.jar                     |Architectury                  |architectury                  |6.6.92              |DONE      |Manifest: NOSIGNATURE
+		towntalk-1.19.2-1.0.1.jar                         |TownTalk                      |towntalk                      |1.0.1               |DONE      |Manifest: NOSIGNATURE
+		jei-1.19.2-forge-11.6.0.1019.jar                  |Just Enough Items             |jei                           |11.6.0.1019         |DONE      |Manifest: NOSIGNATURE
+		thutessentials-1.19.2-4.5.3.jar                   |Thut Essentials               |thutessentials                |4.5.3               |DONE      |Manifest: NOSIGNATURE
+		carryon-forge-1.19.2-2.1.2.23.jar                 |Carry On                      |carryon                       |2.1.2.23            |DONE      |Manifest: NOSIGNATURE
+		domum_ornamentum-1.19-1.0.146-BETA-universal.jar  |Domum Ornamentum              |domum_ornamentum              |1.19-1.0.146-BETA   |DONE      |Manifest: NOSIGNATURE
+		structurize-1.19.2-1.0.689-RELEASE.jar            |Structurize                   |structurize                   |1.19.2-1.0.689-RELEA|DONE      |Manifest: NOSIGNATURE
+		spark-1.10.37-forge.jar                           |spark                         |spark                         |1.10.37             |DONE      |Manifest: NOSIGNATURE
+		forge-1.19.2-43.4.2-universal.jar                 |Forge                         |forge                         |43.4.2              |DONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		blockui-1.19.2-1.0.140-BETA.jar                   |UI Library Mod                |blockui                       |1.19.2-1.0.140-BETA |DONE      |Manifest: NOSIGNATURE
+		minecolonies-1.19.2-1.1.628-BETA.jar              |MineColonies                  |minecolonies                  |1.19.2-1.1.628-BETA |DONE      |Manifest: NOSIGNATURE
+		multipiston-1.19.2-1.2.25-ALPHA.jar               |Multi-Piston                  |multipiston                   |1.19.2-1.2.25-ALPHA |DONE      |Manifest: NOSIGNATURE
+		journeymap-1.19.2-5.9.8-forge.jar                 |Journeymap                    |journeymap                    |5.9.8               |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: d64a5912-5cd8-477f-aec3-6795ae2995e7
+	FML: 43.4
+	Forge: net.minecraftforge:43.4.2
+[18:05:20] [Server Watchdog/FATAL] [ne.mi.co.ForgeMod/]: Preparing crash report with UUID 7cf81381-9b07-4f85-8bf5-aa960b823815
+[18:05:20] [Server Watchdog/ERROR] [minecraft/ServerWatchdog]: This crash report has been saved to: /root/MinecraftServerForge1.19.2-43.4.2/./crash-reports/crash-2024-11-13_18.05.20-server.txt
+Profiling stopped after 31 seconds. No dump options specified
+2024-11-13 18:05:43,221 main WARN Advanced terminal features are not available in this environment
+[18:05:43] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853,  -Xms2G -Xmx4G]
+[18:05:43] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 5.15.0-113-generic
+[18:05:43] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[18:05:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[18:05:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[18:05:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[18:05:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[18:05:43] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[18:05:45] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18:05:45] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [ -Xms2G -Xmx4G]
+[18:05:45] [main/WARN] [mixin/]: Reference map 'tlc.refmap.json' for tlc.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:05:48] [main/INFO] [minecraft/DataFixers]: Building unoptimized datafixer
+[18:05:50] [modloading-worker-0/INFO] [thutessentials/]: []
+[18:05:50] [modloading-worker-0/INFO] [thutessentials/]: []
+[18:05:50] [modloading-worker-0/INFO] [thutessentials/]: []
+[18:05:50] [modloading-worker-0/INFO] [thutessentials/]: {}
+[18:05:50] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[18:05:50] [modloading-worker-0/INFO] [thutessentials/]: Registering Defuzzer!
+[18:05:50] [modloading-worker-0/INFO] [ne.mi.co.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[18:05:50] [modloading-worker-0/INFO] [ne.mi.co.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Warped Netherlands
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Stalactite Caves
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Space Wars
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Shire
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Desert Oasis
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Pagoda
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Minecolonies Original
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Nordic Spruce
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Spruce
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Oak
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Dark Oak
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Birch
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Lost Mesa City
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Jungle Treehouse
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Incan
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Fortress
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Dark Oak Treehouse
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Colonial
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Cavern
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Caledonia
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Birch
+[18:05:50] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Savanna
+[18:05:50] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
+[18:05:50] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
+[18:05:50] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
+[18:05:51] [main/INFO] [thutessentials/]: Loaded thutessentials config file thutessentials/thutessentials-common.toml
+[18:05:51] [main/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[18:05:51] [main/INFO] [thutessentials/]: Set warps to [Egor->91,91,-234,minecraft:overworld]
+[18:05:51] [main/INFO] [thutessentials/]: []
+[18:05:51] [main/INFO] [thutessentials/]: []
+[18:05:51] [main/INFO] [thutessentials/]: []
+[18:05:51] [main/INFO] [thutessentials/]: {}
+[18:05:51] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[18:05:51] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[18:05:52] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18:05:52] [main/INFO] [journeymap/]: Initializing Packet Registries
+[18:05:52] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
+[18:05:53] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.5
+[18:05:53] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[18:05:53] [main/INFO] [mojang/YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:05:53] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[18:05:53] [main/WARN] [minecraft/VanillaPackResources]: Assets URL 'union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23131!/assets/.mcassetsroot' uses unexpected schema
+[18:05:53] [main/WARN] [minecraft/VanillaPackResources]: Assets URL 'union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23131!/data/.mcassetsroot' uses unexpected schema
+[18:05:55] [main/INFO] [minecraft/RecipeManager]: Loaded 11 recipes
+[18:05:55] [main/INFO] [minecraft/AdvancementList]: Loaded 1592 advancements
+[18:05:55] [main/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
+[18:05:55] [main/INFO] [minecolonies/]: Loaded 130 recipes for 14 crafters
+[18:05:55] [main/INFO] [minecolonies/]: Beginning load of research for University.
+[18:05:55] [main/INFO] [minecolonies/]: Loaded 201 recipes for 4 research branches
+[18:05:55] [main/INFO] [minecolonies/]: Loading quests from data
+[18:05:55] [main/INFO] [minecolonies/]: Finished loading quests from data
+[18:05:55] [main/WARN] [minecolonies/]: Read 1362 items with their nbt keys for compatibility.
+[18:05:56] [Server thread/INFO] [minecraft/DedicatedServer]: Starting minecraft server version 1.19.2
+[18:05:56] [Server thread/INFO] [minecraft/DedicatedServer]: Loading properties
+[18:05:56] [Server thread/INFO] [minecraft/DedicatedServer]: Default game type: SURVIVAL
+[18:05:56] [Server thread/INFO] [minecraft/MinecraftServer]: Generating keypair
+[18:05:56] [Server console handler/ERROR] [minecraft/DedicatedServer]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?] {}
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?] {}
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?] {}
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:281) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:324) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:189) ~[?:?] {}
+	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?] {}
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?] {}
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?] {}
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?] {}
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:90) [server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+[18:05:56] [Server thread/INFO] [minecraft/DedicatedServer]: Starting Minecraft server on *:25565
+[18:05:56] [Server thread/INFO] [minecraft/ServerConnectionListener]: Using epoll channel type
+[18:05:56] [Server thread/WARN] [minecraft/DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:05:56] [Server thread/WARN] [minecraft/DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[18:05:56] [Server thread/WARN] [minecraft/DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:05:56] [Server thread/WARN] [minecraft/DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:05:56] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[18:05:56] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[18:05:56] [Server thread/INFO] [spark/]: Starting background profiler...
+[18:05:57] [Server thread/INFO] [minecraft/DedicatedServer]: Preparing level "world"
+[18:05:57] [Netty Epoll Server IO #1/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18:05:57] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[18:06:00] [Netty Epoll Server IO #2/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18:06:01] [Netty Epoll Server IO #3/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18:06:03] [Netty Epoll Server IO #4/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18:06:08] [Worker-Main-2/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-2/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-2/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-2/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-2/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:06:08] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[18:06:09] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 32%
+[18:06:09] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 65%
+[18:06:10] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 97%
+[18:06:10] [Server thread/INFO] [minecraft/LoggerChunkProgressListener]: Time elapsed: 13068 ms
+[18:06:10] [Server thread/INFO] [minecraft/DedicatedServer]: Done (13.899s)! For help, type "help"
+[18:06:10] [Server thread/INFO] [ne.mi.se.pe.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18:06:10] [Server thread/INFO] [thutessentials/]: Server Started
+[18:06:10] [Server thread/INFO] [thutessentials/]: Starting Loading Land
+[18:06:10] [Server thread/INFO] [thutessentials/]: Finished Loading Land and Teams
+[18:06:10] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 9
+[18:06:10] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 19 22
+[18:06:10] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
+[18:06:10] [Server thread/INFO] [minecolonies/]: Finished discovering food 106 126
+[18:06:10] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 225
+[18:06:10] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 222
+[18:06:10] [Server thread/INFO] [minecolonies/]: Finished discovering lucky oreBlocks 6
+[18:06:10] [Server thread/INFO] [minecolonies/]: Finished discovering recruitment costs
+[18:06:10] [Server thread/INFO] [minecolonies/]: Finished discovering diseases
+[18:06:32] [Server thread/WARN] [minecraft/SynchedEntityData]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[18:06:32] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@54b3513f
+[18:06:32] [Server thread/INFO] [minecraft/PlayerList]: Hezare0[/176.59.192.244:53981] logged in with entity id 130 at (-5.850048881422215, 74.0, -47.752071970373485)
+[18:06:32] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 joined the game
+[18:06:32] [Server thread/INFO] [structurize/]: New Server UUID 76838d9a-30fa-4ae7-9fe7-ff6f9400fdff
+[18:06:32] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[18:06:42] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4a11836a
+[18:06:42] [Server thread/INFO] [minecraft/PlayerList]: The_Dos[/188.186.208.18:29016] logged in with entity id 251 at (-6.496545399076274, 74.0, -48.12293055796347)
+[18:06:42] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos joined the game
+[18:06:42] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[18:06:43] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@41a40b5a
+[18:06:43] [Server thread/INFO] [minecraft/PlayerList]: VadimThomas[/5.3.142.22:62378] logged in with entity id 252 at (1760.4286706138832, 71.0, -558.4563600931224)
+[18:06:43] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas joined the game
+[18:06:43] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[18:06:46] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
+[18:07:11] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos fell from a high place
+[18:08:04] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: The_Dos moved too quickly! -1663.940043015718,2.5,644.6834992121142
+[18:10:02] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [Who is Cutting Onions?]
+[18:11:13] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 1 recipes!
+[18:14:02] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 was burnt to a crisp whilst fighting Ghast
+[18:14:06] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Hezare0 lost connection: Disconnected
+[18:14:06] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 left the game
+[18:21:23] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [Those Were the Days]
+[18:22:24] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[18:22:24] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[18:22:29] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: The_Dos moved too quickly! 1332.800000011921,23.5,-336.19999998807907
+[18:25:33] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: The_Dos moved too quickly! -43.438517825851434,15.0,-229.1998927254191
+[18:26:40] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: The_Dos lost connection: Disconnected
+[18:26:40] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos left the game
+[18:26:49] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <VadimThomas> поспал
+[18:26:55] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60083b6
+[18:26:55] [Server thread/INFO] [minecraft/PlayerList]: The_Dos[/188.186.208.18:28692] logged in with entity id 7154 at (342.46738113925886, 45.0, -297.53139749005436)
+[18:26:55] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos joined the game
+[18:26:55] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[18:27:18] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <VadimThomas> вадик я хату сжег
+[18:29:29] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos was slain by Piglin Brute
+[18:33:03] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [War Pigs]
+[18:33:11] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [Cover Me with Diamonds]
+[18:33:12] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos has made the advancement [Hidden in the Depths]
+[18:33:14] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: The_Dos lost connection: Disconnected
+[18:33:14] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos left the game
+[18:33:24] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6aaca7f7
+[18:33:24] [Server thread/INFO] [minecraft/PlayerList]: The_Dos[/188.186.208.18:28838] logged in with entity id 9372 at (371.9243369296899, 36.0, -308.43607155317466)
+[18:33:24] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos joined the game
+[18:33:24] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[18:33:38] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: The_Dos lost connection: Disconnected
+[18:33:38] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos left the game
+[18:33:47] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c5c5364
+[18:33:47] [Server thread/INFO] [minecraft/PlayerList]: The_Dos[/188.186.208.18:28543] logged in with entity id 9587 at (368.2755632737247, 38.0, -305.4548822012864)
+[18:33:47] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos joined the game
+[18:33:47] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[18:33:53] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: The_Dos lost connection: Disconnected
+[18:33:53] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos left the game
+[18:35:02] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5a420c04
+[18:35:02] [Server thread/INFO] [minecraft/PlayerList]: The_Dos[/188.186.208.18:28714] logged in with entity id 9968 at (369.30000001192093, 38.0, -304.9812547042916)
+[18:35:02] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos joined the game
+[18:35:02] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[18:36:05] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: The_Dos moved too quickly! 1304.9919947562005,30.5,-313.80000001192093
+[18:36:33] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: The_Dos moved too quickly! -1307.5938031589446,-29.5,314.55572875400446
+[18:37:07] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: The_Dos moved too quickly! 1304.8757237843902,30.5,-313.80000001192093
+[18:38:06] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: The_Dos moved too quickly! -1309.0158255598446,-29.5,313.0599599269925
+[18:45:08] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: The_Dos moved too quickly! 1305.199999988079,30.5,-313.38942538560605
+[18:50:12] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: The_Dos moved too quickly! -1308.232592838622,-29.5,314.8470745271919
+[18:50:38] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: The_Dos moved too quickly! 124.30000001192093,-6.0,-12.862435102033828
+[19:02:18] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: The_Dos moved too quickly! 1116.3620787594805,48.5,-292.8220811797465
+[19:02:18] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
+[19:10:51] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas has made the advancement [Suit Up]
+[19:11:02] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@45913c95
+[19:11:02] [Server thread/INFO] [minecraft/PlayerList]: Hezare0[/176.59.192.244:62534] logged in with entity id 18251 at (37.69999998807907, 46.0, 103.18211562294522)
+[19:11:02] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 joined the game
+[19:11:02] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[19:11:36] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Hezare0 lost connection: Timed out
+[19:11:36] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 left the game
+[19:11:53] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@494c38c9
+[19:11:53] [Server thread/INFO] [minecraft/PlayerList]: Hezare0[/176.59.192.244:49855] logged in with entity id 18735 at (87.5, 91.0, -221.5)
+[19:11:53] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 joined the game
+[19:11:53] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[19:15:06] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <The_Dos> Егор
+[19:15:11] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <The_Dos> тут ?
+[19:15:20] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <Hezare0> да
+[19:15:33] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <The_Dos> У тебя алмы есть ?
+[19:15:41] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <Hezare0> нет))))
+[19:15:43] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <The_Dos> Себе кирку сделаешь
+[19:15:52] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <The_Dos> я тебе могу слиток незер отдать
+[19:15:58] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <Hezare0> давай
+[19:16:05] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <Hezare0> я вещи забрал
+[19:16:09] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <Hezare0> ну как
+[19:16:11] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <Hezare0> часть
+[19:16:20] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <The_Dos> Ты или я тп ?
+[19:16:33] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <Hezare0> я в крепости
+[19:16:35] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [A Terrible Fortress]
+[19:19:18] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [Into Fire]
+[19:19:43] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [The Path to Better Gear]
+[19:20:52] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: VadimThomas lost connection: Disconnected
+[19:20:52] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas left the game
+[19:21:33] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11334a76
+[19:21:33] [Server thread/INFO] [minecraft/PlayerList]: VadimThomas[/5.3.142.22:62494] logged in with entity id 23852 at (182.41207172609953, 51.0, 230.80838176088952)
+[19:21:33] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas joined the game
+[19:21:33] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[19:23:07] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: VadimThomas lost connection: Disconnected
+[19:23:07] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas left the game
+[19:23:12] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 was slain by Wither Skeleton
+[19:23:34] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: The_Dos moved too quickly! -7.460473195478244,-6.747796659746271,-0.02537447658050951
+[19:23:47] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2876fa3b
+[19:23:47] [Server thread/INFO] [minecraft/PlayerList]: VadimThomas[/5.3.142.22:62514] logged in with entity id 25940 at (184.34662154488063, 46.0, 230.92479704436195)
+[19:23:47] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas joined the game
+[19:23:47] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[19:23:48] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 was slain by Wither Skeleton
+[19:24:48] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[19:26:24] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[19:26:34] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 was burnt to a crisp whilst fighting Blaze
+[19:27:06] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas has made the advancement [Diamonds!]
+[19:28:01] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 hit the ground too hard whilst trying to escape Blaze
+[19:28:24] [Server thread/INFO] [minecraft/MinecraftServer]: [Hezare0: Teleported Hezare0 to 147.500000, 79.000000, 157.500000]
+[19:28:44] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Hezare0 lost connection: Disconnected
+[19:28:44] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 left the game
+[19:28:52] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@639a167f
+[19:28:52] [Server thread/INFO] [minecraft/PlayerList]: Hezare0[/176.59.192.244:45346] logged in with entity id 31360 at (147.5, 79.0, 157.5)
+[19:28:52] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 joined the game
+[19:28:52] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[19:43:24] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Hezare0 lost connection: Timed out
+[19:43:24] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 left the game
+[19:43:30] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5e3ec03e
+[19:43:30] [Server thread/INFO] [minecraft/PlayerList]: Hezare0[/176.59.192.244:50074] logged in with entity id 41603 at (47.5, 112.0, -409.50606769303283)
+[19:43:30] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 joined the game
+[19:43:30] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[19:43:52] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
+[19:44:10] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 3085ms or 61 ticks behind
+[19:44:29] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 4277ms or 85 ticks behind
+[6069.090s][warning][gc,alloc] Worker-Main-3: Retried waiting for GCLocker too often allocating 65539 words
+[19:46:50] [Worker-Main-3/ERROR] [minecraft/Util]: Caught exception in thread Thread[Worker-Main-3,5,main]
+java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.clone(Long2ObjectOpenHashMap.java:1372) ~[fastutil-8.5.6.jar%2389!/:?] {}
+	at net.minecraft.world.level.lighting.SkyLightSectionStorage$SkyDataLayerStorageMap.m_5972_(SkyLightSectionStorage.java:337) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.lighting.SkyLightSectionStorage$SkyDataLayerStorageMap.m_5972_(SkyLightSectionStorage.java:317) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.lighting.LayerLightSectionStorage.m_75790_(LayerLightSectionStorage.java:381) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.lighting.LayerLightEngine.m_5738_(LayerLightEngine.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.lighting.LevelLightEngine.m_5738_(LevelLightEngine.java:65) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.server.level.ThreadedLevelLightEngine.m_9366_(ThreadedLevelLightEngine.java:188) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.server.level.ThreadedLevelLightEngine.m_9327_(ThreadedLevelLightEngine.java:107) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.server.level.ThreadedLevelLightEngine$$Lambda$9060/0x00007fb5691b34d8.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter$$Lambda$9076/0x00007fb5691b7af8.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) [?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?] {}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?] {}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?] {}
+[6069.151s][warning][gc,alloc] Thread-0: Retried waiting for GCLocker too often allocating 1290 words
+[19:54:44] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: VadimThomas lost connection: Disconnected
+[19:54:44] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas left the game
+[19:55:10] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61f2ccd7
+[19:55:10] [Server thread/INFO] [minecraft/PlayerList]: VadimThomas[/5.3.142.22:62561] logged in with entity id 46486 at (185.30000001192093, 19.0, 248.69999998807907)
+[19:55:10] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas joined the game
+[19:55:10] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[19:55:50] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: VadimThomas lost connection: Disconnected
+[19:55:50] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas left the game
+[19:55:53] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has made the advancement [Any Shelter Will Do]
+[19:56:28] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4d9b334f
+[19:56:28] [Server thread/INFO] [minecraft/PlayerList]: VadimThomas[/5.3.142.22:62578] logged in with entity id 46978 at (185.30000001192093, 19.0, 248.69999998807907)
+[19:56:28] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas joined the game
+[19:56:28] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[19:59:19] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 has reached the goal [Hometown]
+[20:06:42] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: The_Dos lost connection: Disconnected
+[20:06:42] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos left the game
+[20:06:47] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b13e608
+[20:06:47] [Server thread/INFO] [minecraft/PlayerList]: The_Dos[/188.186.208.18:28946] logged in with entity id 51358 at (1581.90527813405, 70.0, -848.3069617243023)
+[20:06:47] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos joined the game
+[20:06:47] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[20:08:13] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[20:09:38] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: The_Dos lost connection: Disconnected
+[20:09:38] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos left the game
+[20:09:54] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 10 recipes!
+[20:09:54] [Server thread/INFO] [minecraft/MinecraftServer]: [Hezare0: Saved the game]
+[20:10:57] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ed2718d
+[20:10:57] [Server thread/INFO] [minecraft/PlayerList]: The_Dos[/188.186.208.18:28910] logged in with entity id 52884 at (1581.90527813405, 70.0, -848.3069617243023)
+[20:10:57] [Server thread/INFO] [minecraft/MinecraftServer]: The_Dos joined the game
+[20:10:57] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[20:10:59] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Hezare0 lost connection: Disconnected
+[20:10:59] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 left the game
+[20:11:05] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@38969df8
+[20:11:05] [Server thread/INFO] [minecraft/PlayerList]: Hezare0[/176.59.192.244:50215] logged in with entity id 52982 at (90.55384852674193, 91.0, -222.23395741048773)
+[20:11:05] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 joined the game
+[20:11:05] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[20:12:00] [Server thread/INFO] [minecraft/MinecraftServer]: [Hezare0: Saved the game]
+[20:12:05] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Hezare0 lost connection: Disconnected
+[20:12:05] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 left the game
+[20:12:39] [Server thread/INFO] [thutessentials/]: Server Stopped
+[20:12:39] [Server thread/INFO] [minecraft/MinecraftServer]: Stopping server
+[20:12:39] [Server thread/INFO] [minecraft/MinecraftServer]: Saving players
+[20:12:39] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: VadimThomas lost connection: Server closed
+[20:12:39] [Server thread/INFO] [minecraft/MinecraftServer]: VadimThomas left the game
+[20:12:39] [Server thread/INFO] [minecraft/MinecraftServer]: Saving worlds
+[20:12:40] [Server thread/INFO] [thutessentials/]: Starting Loading Land
+[20:12:40] [Server thread/INFO] [thutessentials/]: Finished Loading Land and Teams

@@ -103,5 +103,5 @@
 [warps]
 	warpActivateDelay = 50
 	warpReUseDelay = 100
-	warps = []
+	warps = ["Egor->91,91,-234,minecraft:overworld", "setset->342,45,-298,minecraft:the_nether"]
 
