@@ -1319,3 +1319,175 @@ java.io.IOException: Bad file descriptor
 [01:46:48] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
 [01:46:48] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [01:46:48] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved
+2024-11-13 12:57:40,291 main WARN Advanced terminal features are not available in this environment
+[12:57:40] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853,  -Xms2G -Xmx4G]
+[12:57:40] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 5.15.0-113-generic
+[12:57:40] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[12:57:41] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[12:57:41] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[12:57:41] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[12:57:41] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[12:57:41] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[12:57:42] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[12:57:42] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [ -Xms2G -Xmx4G]
+[12:57:42] [main/WARN] [mixin/]: Reference map 'tlc.refmap.json' for tlc.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:57:45] [main/INFO] [minecraft/DataFixers]: Building unoptimized datafixer
+[12:57:47] [modloading-worker-0/INFO] [thutessentials/]: []
+[12:57:47] [modloading-worker-0/INFO] [thutessentials/]: []
+[12:57:47] [modloading-worker-0/INFO] [thutessentials/]: []
+[12:57:47] [modloading-worker-0/INFO] [thutessentials/]: {}
+[12:57:47] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[12:57:47] [modloading-worker-0/INFO] [thutessentials/]: Registering Defuzzer!
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Warped Netherlands
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Stalactite Caves
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Space Wars
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Shire
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Desert Oasis
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Pagoda
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Minecolonies Original
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Nordic Spruce
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Spruce
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Oak
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Dark Oak
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Birch
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Lost Mesa City
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Jungle Treehouse
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Incan
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Fortress
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Dark Oak Treehouse
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Colonial
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Cavern
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Caledonia
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Birch
+[12:57:47] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Savanna
+[12:57:47] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
+[12:57:47] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
+[12:57:47] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
+[12:57:47] [modloading-worker-0/INFO] [ne.mi.co.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[12:57:47] [modloading-worker-0/INFO] [ne.mi.co.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[12:57:48] [main/INFO] [thutessentials/]: Loaded thutessentials config file thutessentials/thutessentials-common.toml
+[12:57:48] [main/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[12:57:48] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[12:57:48] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[12:57:48] [main/INFO] [journeymap/]: Initializing Packet Registries
+[12:57:48] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
+[12:57:49] [main/INFO] [mojang/YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:57:50] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.5
+[12:57:50] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[12:57:50] [main/WARN] [minecraft/VanillaPackResources]: Assets URL 'union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23131!/assets/.mcassetsroot' uses unexpected schema
+[12:57:50] [main/WARN] [minecraft/VanillaPackResources]: Assets URL 'union:/root/MinecraftServerForge1.19.2-43.4.2/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23131!/data/.mcassetsroot' uses unexpected schema
+[12:57:50] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[12:57:51] [main/INFO] [minecraft/RecipeManager]: Loaded 11 recipes
+[12:57:52] [main/INFO] [minecraft/AdvancementList]: Loaded 1592 advancements
+[12:57:52] [main/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
+[12:57:52] [main/INFO] [minecolonies/]: Loaded 130 recipes for 14 crafters
+[12:57:52] [main/INFO] [minecolonies/]: Beginning load of research for University.
+[12:57:52] [main/INFO] [minecolonies/]: Loaded 201 recipes for 4 research branches
+[12:57:52] [main/INFO] [minecolonies/]: Loading quests from data
+[12:57:52] [main/INFO] [minecolonies/]: Finished loading quests from data
+[12:57:52] [main/WARN] [minecolonies/]: Read 1362 items with their nbt keys for compatibility.
+[12:57:52] [Server thread/INFO] [minecraft/DedicatedServer]: Starting minecraft server version 1.19.2
+[12:57:52] [Server thread/INFO] [minecraft/DedicatedServer]: Loading properties
+[12:57:52] [Server thread/INFO] [minecraft/DedicatedServer]: Default game type: SURVIVAL
+[12:57:52] [Server thread/INFO] [minecraft/MinecraftServer]: Generating keypair
+[12:57:52] [Server console handler/ERROR] [minecraft/DedicatedServer]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?] {}
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?] {}
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?] {}
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:281) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:324) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:189) ~[?:?] {}
+	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?] {}
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?] {}
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?] {}
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?] {}
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:90) [server-1.19.2-20220805.130853-srg.jar%23131!/:?] {re:classloading}
+[12:57:52] [Server thread/INFO] [minecraft/DedicatedServer]: Starting Minecraft server on *:25565
+[12:57:52] [Server thread/INFO] [minecraft/ServerConnectionListener]: Using epoll channel type
+[12:57:52] [Server thread/WARN] [minecraft/DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:57:52] [Server thread/WARN] [minecraft/DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[12:57:52] [Server thread/WARN] [minecraft/DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:57:52] [Server thread/WARN] [minecraft/DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:57:52] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[12:57:52] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[12:57:52] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[12:57:53] [Server thread/INFO] [spark/]: Starting background profiler...
+[12:57:53] [Server thread/INFO] [minecraft/DedicatedServer]: Preparing level "world"
+[12:57:53] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[12:58:04] [Worker-Main-2/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-2/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-2/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-2/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-2/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-2/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[12:58:04] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 23%
+[12:58:05] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 68%
+[12:58:05] [Worker-Main-3/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 89%
+[12:58:05] [Server thread/INFO] [minecraft/LoggerChunkProgressListener]: Time elapsed: 12140 ms
+[12:58:05] [Server thread/INFO] [minecraft/DedicatedServer]: Done (13.012s)! For help, type "help"
+[12:58:06] [Server thread/INFO] [ne.mi.se.pe.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12:58:06] [Server thread/INFO] [thutessentials/]: Server Started
+[12:58:06] [Server thread/INFO] [thutessentials/]: Starting Loading Land
+[12:58:06] [Server thread/INFO] [thutessentials/]: Finished Loading Land and Teams
+[12:58:06] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 9
+[12:58:06] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 19 22
+[12:58:06] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
+[12:58:06] [Server thread/INFO] [minecolonies/]: Finished discovering food 106 126
+[12:58:06] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 225
+[12:58:06] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 222
+[12:58:06] [Server thread/INFO] [minecolonies/]: Finished discovering lucky oreBlocks 6
+[12:58:06] [Server thread/INFO] [minecolonies/]: Finished discovering recruitment costs
+[12:58:06] [Server thread/INFO] [minecolonies/]: Finished discovering diseases
+[12:59:29] [Server thread/INFO] [minecraft/ServerLoginPacketListenerImpl]: Disconnecting com.mojang.authlib.GameProfile@44f9af49[id=<null>,name=Hezare0,properties={},legacy=false] (/176.59.192.244:49947): Took too long to log in
+[12:59:29] [Server thread/INFO] [minecraft/ServerLoginPacketListenerImpl]: com.mojang.authlib.GameProfile@44f9af49[id=<null>,name=Hezare0,properties={},legacy=false] (/176.59.192.244:49947) lost connection: Took too long to log in
+[12:59:29] [Server thread/WARN] [minecraft/Connection]: handleDisconnection() called twice
+[13:00:23] [Server thread/WARN] [minecraft/SynchedEntityData]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[13:00:23] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@383c8c74
+[13:00:23] [Server thread/INFO] [minecraft/PlayerList]: Hezare0[/176.59.192.244:49952] logged in with entity id 141 at (88.22623942135043, 92.25220334025373, -236.97088042737025)
+[13:00:23] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 joined the game
+[13:00:23] [Server thread/INFO] [structurize/]: New Server UUID 9f7a512e-7a42-4fad-b617-85b57597b5fd
+[13:00:23] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[13:00:26] [Server thread/WARN] [minecraft/PersistentEntitySectionManager]: UUID of added entity already exists: Pig['Pig'/325, l='ServerLevel[world]', x=16.71, y=113.00, z=-420.85]
+[13:00:26] [Server thread/WARN] [minecraft/PersistentEntitySectionManager]: UUID of added entity already exists: Chicken['Chicken'/328, l='ServerLevel[world]', x=221.30, y=108.00, z=-416.18]
+[13:01:09] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Hezare0 lost connection: Disconnected
+[13:01:09] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 left the game
+[13:01:12] [Server thread/INFO] [minecraft/ServerLoginPacketListenerImpl]: com.mojang.authlib.GameProfile@4f53faf6[id=<null>,name=Hezare0,properties={},legacy=false] (/176.59.192.244:49961) lost connection: Disconnected
+[13:01:42] [Server thread/INFO] [ne.mi.co.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4670153a
+[13:01:42] [Server thread/INFO] [minecraft/PlayerList]: Hezare0[/176.59.192.244:49964] logged in with entity id 357 at (88.22623942135043, 92.25220334025373, -236.97088042737025)
+[13:01:42] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 joined the game
+[13:01:42] [Server thread/INFO] [thutessentials/]: Login detected, adding player to logins for defuzz.
+[13:02:16] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Hezare0 lost connection: Disconnected
+[13:02:16] [Server thread/INFO] [minecraft/MinecraftServer]: Hezare0 left the game
+[13:03:06] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
+[13:03:54] [Thread-0/INFO] [thutessentials/]: Reading thutessentials/thutessentials-common.toml
+[13:03:54] [Thread-0/WARN] [ne.mi.fm.co.ConfigFileTypeHandler/CONFIG]: Configuration file /root/MinecraftServerForge1.19.2-43.4.2/config/carryon-common.toml is not correct. Correcting
+[13:03:54] [Thread-0/WARN] [ne.mi.fm.co.ConfigFileTypeHandler/CONFIG]: Configuration file /root/MinecraftServerForge1.19.2-43.4.2/config/carryon-common.toml is not correct. Correcting
+[13:04:20] [Server thread/INFO] [thutessentials/]: Server Stopped
+[13:04:20] [Server thread/INFO] [minecraft/MinecraftServer]: Stopping server
+[13:04:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving players
+[13:04:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving worlds
+[13:04:21] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:04:21] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:04:21] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:04:21] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:04:21] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:04:21] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:04:21] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved

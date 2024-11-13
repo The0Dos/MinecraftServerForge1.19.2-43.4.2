@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-11-13 13:51:57 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-11-12 23:15:55 +0300"
@@ -38,6 +44,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-12 23:23:31 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-13 13:09:30 +0300"
     },
     "done": true
   },
@@ -65,15 +77,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockminecoloniesrack": {
     "criteria": {
       "has_build_tool": "2024-11-12 23:24:57 +0300"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-11-12 23:15:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-13 13:42:37 +0300"
     },
     "done": true
   },
@@ -149,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-11-13 13:51:57 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-12 23:46:47 +0300"
@@ -167,6 +203,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-11-13 13:51:57 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-11-12 23:18:29 +0300"
@@ -182,6 +224,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-12 23:30:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
     },
     "done": true
   },
@@ -206,6 +254,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-11-12 23:17:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
     },
     "done": true
   },
@@ -299,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-11-13 13:09:19 +0300"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockhutsmeltery": {
     "criteria": {
       "has_items": "2024-11-12 23:51:42 +0300"
@@ -384,6 +444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-12 23:30:54 +0300"
@@ -414,6 +480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-12 23:46:47 +0300"
@@ -432,6 +504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockhutsifter": {
     "criteria": {
       "has_items": "2024-11-12 23:39:40 +0300"
@@ -444,9 +522,21 @@
     },
     "done": true
   },
+  "minecolonies:recipes/decorations/doublegrass": {
+    "criteria": {
+      "has_grass": "2024-11-13 13:37:11 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-11-12 23:22:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-11-13 13:51:57 +0300"
     },
     "done": true
   },
@@ -492,6 +582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-11-13 13:09:30 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-13 00:40:53 +0300"
@@ -516,6 +612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-13 13:42:37 +0300"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockhutlumberjackstone": {
     "criteria": {
       "has_items": "2024-11-12 23:37:50 +0300"
@@ -537,6 +639,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-11-12 23:15:55 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-11-13 13:09:19 +0300"
     },
     "done": true
   },
@@ -576,9 +684,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockhutblacksmith": {
     "criteria": {
       "has_items": "2024-11-12 23:51:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-11-13 13:16:25 +0300"
     },
     "done": true
   },
@@ -597,6 +717,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-11-13 00:19:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-11-13 13:42:37 +0300"
     },
     "done": true
   },
@@ -630,6 +756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-11-12 23:26:16 +0300"
@@ -660,9 +792,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-13 13:42:37 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-13 00:40:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-13 13:42:37 +0300"
     },
     "done": true
   },
@@ -693,6 +843,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-11-12 23:51:42 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutschool": {
+    "criteria": {
+      "has_items": "2024-11-13 13:09:33 +0300"
     },
     "done": true
   },
@@ -799,7 +955,8 @@
       "minecraft:creeper": "2024-11-13 00:23:37 +0300",
       "minecraft:cave_spider": "2024-11-12 23:43:15 +0300",
       "minecraft:enderman": "2024-11-12 23:55:10 +0300",
-      "minecraft:zombie": "2024-11-12 23:28:04 +0300"
+      "minecraft:zombie": "2024-11-12 23:28:04 +0300",
+      "minecraft:drowned": "2024-11-13 13:26:21 +0300"
     },
     "done": false
   },
@@ -839,9 +996,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2024-11-12 23:28:05 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-11-13 13:51:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
     },
     "done": true
   },
@@ -869,6 +1044,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-11-13 13:09:30 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutfarmerstone": {
+    "criteria": {
+      "has_items": "2024-11-13 13:18:13 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-11-12 23:27:39 +0300"
@@ -890,6 +1077,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-11-12 23:15:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
     },
     "done": true
   },
@@ -932,6 +1125,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-11-12 23:48:34 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-11-13 13:09:19 +0300"
     },
     "done": true
   },
@@ -1037,6 +1236,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2024-11-13 13:19:21 +0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-11-12 23:15:55 +0300"
@@ -1064,6 +1269,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-11-12 23:39:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
     },
     "done": true
   },
@@ -1115,6 +1326,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-13 13:09:19 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-11-12 23:51:42 +0300"
@@ -1151,6 +1368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-13 13:42:37 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-11-12 23:37:03 +0300"
@@ -1166,6 +1389,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-11-13 00:41:59 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-11-13 13:09:19 +0300"
     },
     "done": true
   },
@@ -1289,6 +1518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-13 00:40:53 +0300"
@@ -1340,6 +1575,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-11-12 23:51:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
     },
     "done": true
   },
@@ -1409,6 +1650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-11-12 23:22:54 +0300"
@@ -1469,6 +1716,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-11-13 13:42:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2024-11-12 23:22:54 +0300"
@@ -1477,7 +1736,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2024-11-13 13:26:16 +0300",
       "minecraft:forest": "2024-11-12 23:17:25 +0300",
+      "minecraft:deep_dark": "2024-11-13 13:50:15 +0300",
+      "minecraft:meadow": "2024-11-13 13:42:05 +0300",
       "minecraft:plains": "2024-11-12 23:15:34 +0300"
     },
     "done": false
@@ -1485,6 +1747,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-11-12 23:51:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
     },
     "done": true
   },
@@ -1560,9 +1828,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2024-11-12 23:48:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-11-13 13:19:21 +0300"
     },
     "done": true
   },
@@ -1617,6 +1897,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-11-12 23:15:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-13 13:42:37 +0300"
     },
     "done": true
   },
@@ -1686,15 +1972,33 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutchickenherder": {
+    "criteria": {
+      "has_items": "2024-11-13 13:09:19 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-11-12 23:46:47 +0300"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2024-11-12 23:15:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-11-13 13:42:37 +0300"
     },
     "done": true
   },
@@ -1707,6 +2011,18 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-12 23:30:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-11-13 13:09:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-11-13 13:42:37 +0300"
     },
     "done": true
   },
