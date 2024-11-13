@@ -1,0 +1,17 @@
+Registering Defuzzer!
+Loaded thutessentials config file thutessentials/thutessentials-common.toml
+Reading thutessentials/thutessentials-common.toml
+thutessentials/thutessentials-common.toml config belongs to us!
+Reading thutessentials/thutessentials-common.toml
+Server Started
+Starting Loading Land
+Finished Loading Land and Teams
+13:00:23.600604633 minecraft:overworld, BlockPos{x=5, y=5, z=-15}: log-in c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+Login detected, adding player to logins for defuzz.
+13:01:09.497145366 minecraft:overworld, BlockPos{x=5, y=5, z=-15}: log-out c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+13:01:42.245508427 minecraft:overworld, BlockPos{x=5, y=5, z=-15}: log-in c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+Login detected, adding player to logins for defuzz.
+13:02:16.593166332 minecraft:overworld, BlockPos{x=5, y=5, z=-15}: log-out c63978fa-cffe-333b-9379-f77b62967dc5 Hezare0
+thutessentials/thutessentials-common.toml config belongs to us!
+Reading thutessentials/thutessentials-common.toml
+Server Stopped
