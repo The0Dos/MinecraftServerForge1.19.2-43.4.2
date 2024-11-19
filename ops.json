@@ -1,5 +1,23 @@
 [
   {
+    "uuid": "ce134e6e-b522-330b-b586-cdc206b742a8",
+    "name": "Pidorasina",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f7d9c9c5-5a04-347b-90f8-39d881279ece",
+    "name": "VadimThomas",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7192b093-269f-335a-a38a-3cd412b6cd9b",
+    "name": "kriper2004",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "afb7b56a-c649-3168-8e66-befdae15357f",
     "name": "The_Dos",
     "level": 4,
