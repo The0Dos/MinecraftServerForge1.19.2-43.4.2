@@ -1,0 +1,24 @@
+Registering Defuzzer!
+Loaded thutessentials config file thutessentials/thutessentials-common.toml
+Reading thutessentials/thutessentials-common.toml
+Set warps to [Egor->91,91,-234,minecraft:overworld, setset->342,45,-298,minecraft:the_nether]
+[]
+[]
+[]
+{}
+thutessentials/thutessentials-common.toml config belongs to us!
+Reading thutessentials/thutessentials-common.toml
+thutessentials/thutessentials-common.toml config belongs to us!
+Reading thutessentials/thutessentials-common.toml
+Server Started
+Starting Loading Land
+Finished Loading Land and Teams
+15:10:29.472638877 minecraft:overworld, BlockPos{x=104, y=4, z=-40}: log-in afb7b56a-c649-3168-8e66-befdae15357f The_Dos
+Login detected, adding player to logins for defuzz.
+15:10:38.402765594 minecraft:overworld, BlockPos{x=104, y=4, z=-40}: log-out afb7b56a-c649-3168-8e66-befdae15357f The_Dos
+15:10:43.67698217 minecraft:overworld, BlockPos{x=104, y=4, z=-40}: log-in afb7b56a-c649-3168-8e66-befdae15357f The_Dos
+Login detected, adding player to logins for defuzz.
+Server Stopped
+15:10:49.526428991 minecraft:overworld, BlockPos{x=104, y=4, z=-40}: log-out afb7b56a-c649-3168-8e66-befdae15357f The_Dos
+Starting Loading Land
+Finished Loading Land and Teams

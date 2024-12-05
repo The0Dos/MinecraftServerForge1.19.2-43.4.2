@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-11-27 18:34:22 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-11-14 23:22:05 +0300"
@@ -98,6 +104,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-11-12 23:17:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-11-20 18:13:06 +0300"
     },
     "done": true
   },
@@ -143,6 +155,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/place_townhall": {
+    "criteria": {
+      "build_tool_place_town_hall": "2024-11-20 18:00:19 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-13 16:32:11 +0300"
@@ -182,6 +200,18 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-11-12 23:51:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-11-20 18:13:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-11-27 18:36:30 +0300"
     },
     "done": true
   },
@@ -293,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-11-27 18:36:30 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2024-11-14 16:24:10 +0300"
@@ -380,6 +416,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2024-11-14 20:20:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2024-11-27 18:34:20 +0300"
     },
     "done": true
   },
@@ -515,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-20 18:13:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-11-12 23:48:45 +0300"
@@ -548,6 +596,12 @@
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2024-11-16 13:28:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2024-11-27 18:34:20 +0300"
     },
     "done": true
   },
@@ -674,6 +728,18 @@
   "farmersdelight:recipes/farmersdelight/mutton_wrap": {
     "criteria": {
       "has_mutton": "2024-11-13 16:29:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-11-27 19:56:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-11-20 17:53:04 +0300"
     },
     "done": true
   },
@@ -827,6 +893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-20 18:13:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-11-12 23:17:33 +0300"
@@ -872,6 +944,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-11-13 15:31:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-11-27 18:34:22 +0300"
     },
     "done": true
   },
@@ -1155,9 +1233,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-11-27 18:34:18 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-11-13 16:32:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-27 18:36:30 +0300"
     },
     "done": true
   },
@@ -1371,6 +1461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-27 18:36:30 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-12 23:30:54 +0300"
@@ -1458,6 +1554,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-11-17 20:54:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-11-27 18:36:30 +0300"
     },
     "done": true
   },
@@ -1851,6 +1953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-27 18:36:30 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2024-11-13 16:14:28 +0300"
@@ -1911,9 +2019,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2024-11-27 18:37:23 +0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-11-12 23:48:16 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2024-11-21 18:34:49 +0300"
     },
     "done": true
   },
@@ -2025,6 +2145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-27 18:36:30 +0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2024-11-13 16:29:57 +0300"
@@ -2043,6 +2169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-11-27 18:36:30 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-11-14 17:37:32 +0300"
@@ -2058,6 +2190,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-11-12 23:48:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-27 18:36:30 +0300"
     },
     "done": true
   },
@@ -2082,6 +2220,12 @@
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2024-11-16 21:56:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-11-20 17:53:04 +0300"
     },
     "done": true
   },
@@ -2397,6 +2541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-11-27 18:34:18 +0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-11-12 23:28:05 +0300"
@@ -2589,6 +2739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-11-20 18:13:06 +0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/stove": {
     "criteria": {
       "has_campfire": "2024-11-13 20:27:39 +0300"
@@ -2646,6 +2802,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-11-14 19:15:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-11-20 17:53:04 +0300"
     },
     "done": true
   },
@@ -2832,6 +2994,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-11-13 16:04:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-11-20 17:53:04 +0300"
     },
     "done": true
   },
@@ -3049,6 +3217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-11-27 18:34:20 +0300"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockhutfarmer": {
     "criteria": {
       "has_items": "2024-11-13 15:47:07 +0300"
@@ -3181,6 +3355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-21 18:30:52 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-11-13 15:45:13 +0300"
@@ -3196,6 +3376,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-11-14 20:48:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-11-27 18:34:20 +0300"
     },
     "done": true
   },
@@ -3367,6 +3553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-27 18:36:30 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-13 00:29:49 +0300"
@@ -3523,6 +3715,7 @@
       "minecraft:jungle": "2024-11-14 16:44:24 +0300",
       "minecraft:ocean": "2024-11-15 14:14:01 +0300",
       "minecraft:deep_lukewarm_ocean": "2024-11-15 14:11:23 +0300",
+      "minecraft:flower_forest": "2024-11-20 17:50:24 +0300",
       "minecraft:frozen_peaks": "2024-11-14 20:35:53 +0300",
       "minecraft:old_growth_birch_forest": "2024-11-17 01:04:35 +0300",
       "minecraft:deep_dark": "2024-11-13 13:50:15 +0300",
@@ -3610,6 +3803,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-11-27 18:36:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-11-27 18:34:18 +0300"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockhutnetherworker": {
     "criteria": {
       "has_items": "2024-11-13 17:03:56 +0300"
@@ -3667,6 +3872,12 @@
   "minecolonies:minecolonies/fulfill_request": {
     "criteria": {
       "click_gui_button_fulfill": "2024-11-12 23:55:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-11-27 18:36:30 +0300"
     },
     "done": true
   },
@@ -4062,6 +4273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-11-27 18:36:56 +0300"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockwaypoint": {
     "criteria": {
       "has_build_tool": "2024-11-12 23:24:57 +0300"
@@ -4146,6 +4363,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutfisherman": {
+    "criteria": {
+      "has_items": "2024-11-21 16:31:02 +0300"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockhutschool": {
     "criteria": {
       "has_items": "2024-11-13 13:09:33 +0300"
@@ -4212,6 +4435,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-20 18:13:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-11-27 18:34:22 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-13 13:49:21 +0300"
@@ -4239,6 +4474,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-11-16 13:51:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-11-20 18:13:06 +0300"
     },
     "done": true
   },
@@ -4379,6 +4620,7 @@
       "cabbage": "2024-11-14 17:04:05 +0300",
       "tomato": "2024-11-13 15:54:00 +0300",
       "kelp": "2024-11-15 14:30:04 +0300",
+      "sugar_cane": "2024-11-21 18:53:16 +0300",
       "potato": "2024-11-17 20:47:45 +0300",
       "wheat": "2024-11-13 13:19:21 +0300",
       "melon": "2024-11-14 17:04:15 +0300",
@@ -4386,6 +4628,12 @@
       "carrot": "2024-11-13 20:44:02 +0300"
     },
     "done": false
+  },
+  "minecolonies:recipes/minecolonies/mediumquarry": {
+    "criteria": {
+      "has_items": "2024-11-21 16:31:00 +0300"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {
@@ -4579,6 +4827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-11-27 18:34:18 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-11-13 16:30:50 +0300"
@@ -4651,6 +4905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2024-11-27 18:34:22 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_light_blue_dye": "2024-11-13 19:46:39 +0300"
@@ -4708,6 +4968,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-11-13 18:07:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-20 18:13:06 +0300"
     },
     "done": true
   },
@@ -4903,6 +5169,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/simplequarry": {
+    "criteria": {
+      "has_items": "2024-11-21 16:31:00 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-11-13 16:30:50 +0300"
@@ -4939,6 +5211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-11-20 18:13:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-11-12 23:48:34 +0300"
@@ -4960,6 +5238,12 @@
   "gobber2:root": {
     "criteria": {
       "gobber2_globette": "2024-11-14 20:32:46 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutrabbithutch": {
+    "criteria": {
+      "has_items": "2024-11-20 17:58:10 +0300"
     },
     "done": true
   },
